@@ -164,7 +164,7 @@ function onClick(event) {
     const context = guessContext(event.target)
     const c = context && `[in ${context}]`
     const gh = GitHubIssueUrl({
-      repository: 'https://github.com/Omikhleia/sindict',
+      repository: 'https://gitlab.com/nill.ringil/sindict',
       title: `(entry ${id}) ${text}`,
       body: `Issue on entry **${id}** (internal identifier)
 "${text}" ${c ? c : ''}

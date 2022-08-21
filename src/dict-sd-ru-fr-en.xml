@@ -141,6 +141,7 @@
           <name>Emanuele Vicentini</name>,
           <name>Didier Willis</name>,
           <name>Patrick Wynne</name>,
+          <name>Nill Ringil</name>,
           the members of the ELFLING mailing-list,
           the members of the Sindarin dictionary discussion group,
           the girl who did not want her name to be mentioned,
@@ -199,6 +200,7 @@
           <name>Emanuele Vicentini</name>,
           <name>Didier Willis</name>,
           <name>Patrick Wynne</name>,
+          <name>Nill Ringil</name>,
           les membres de la liste de diffusion ELFLING,
           les membres du groupe de discussion du dictionnaire sindarin,
           la demoiselle qui ne voulait pas que son nom soit mentionné,
@@ -348,14 +350,21 @@
       <def>O!</def>
     </trans>
     <trans lang="en">
-      <def><bibl>Letters/308</bibl> O!</def>
+      <def>O!</def>
+    </trans>
+    <trans lang="ru">
+      <def>O!</def>
     </trans>
   </sense>
+  <note type="source"><bibl>Letters/308</bibl></note>
   <note type="comment" lang="fr">
     Voir aussi <ptr target="ai.1"/> et <ptr target="ae.1"/>
   </note>
   <note type="comment" lang="en">
     See also <ptr target="ai.1"/> and <ptr target="ae.1"/>
+  </note>
+    <note type="comment" lang="ru">
+    См. так же <ptr target="ai.1"/> и <ptr target="ae.1"/>
   </note>
 </entry>
 
@@ -375,6 +384,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="after" lang="en"/>after, <index level1="later" lang="en"/>later</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="после" lang="ru"/>после, <index level1="следом" lang="ru"/>следом</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>Abonnen</mentioned> “After-born” <bibl>WJ/387</bibl>,
@@ -397,10 +409,16 @@
       <def><index lang="fr" level1="interdiction"/>interdiction, <index lang="fr" level1="refus"/>refus</def> <usg type="hint">en référence au geste de la main</usg>
     </trans>
     <trans lang="en">
-      <def><bibl>VT/47:13</bibl> <index level1="prohibition" lang="en"/>prohibition,
+      <def><index level1="prohibition" lang="en"/>prohibition,
            <index level1="refusal" lang="en"/>refusal</def>
            <usg type="hint">with reference to the gesture one makes with the hand</usg>
     </trans>
+    <trans lang="ru">
+      <def><index level1="запрет" lang="ru"/>запрет,
+           <index level1="отказ" lang="ru"/>отказ</def>
+           <usg type="hint">имеется в виду жест рукой</usg>
+    </trans>
+    <note type="source"><bibl>VT/47:13</bibl></note>
   </sense>
 </entry>
 
