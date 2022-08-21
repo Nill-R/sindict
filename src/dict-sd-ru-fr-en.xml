@@ -448,6 +448,9 @@
     <trans lang="en">
       <def>born later, born after</def>
     </trans>
+    <trans lang="ru">
+      <def>рожденный после, рожденный следом</def>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -457,8 +460,12 @@
       <def><index lang="fr" level1="Homme"/>homme, personne née après les elfes, être humain</def> <usg type="hint">nom elfique désignant les hommes</usg>
     </trans>
     <trans lang="en">
-      <def><bibl>WJ/387</bibl> <index level1="man" lang="en"/>man, one born later than the Elves, a human being</def> <usg type="hint">elvish name for men</usg>
+      <def><index level1="man" lang="en"/>man, one born later than the Elves, a human being</def> <usg type="hint">elvish name for men</usg>
     </trans>
+    <trans lang="ru">
+      <def><index level1="человек" lang="ru"/>человек, рожденный после эльфов, последыш</def> <usg type="hint">эльфийское название людей</usg>
+    </trans>
+    <note type="source"><bibl>WJ/387</bibl></note> 
   </sense>
   <etym>ab-+onnen “after-born”</etym>
 </entry>
@@ -479,8 +486,12 @@
       <def><index lang="fr" level1="cou"/>cou</def>
     </trans>
     <trans lang="en">
-      <def><bibl>PE/17:92</bibl> <index level1="neck" lang="en"/>neck</def>
+      <def><index level1="neck" lang="en"/>neck</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="шея" lang="ru"/>шея</def>
+    </trans>
+    <note type="source"><bibl>PE/17:92</bibl></note>
   </sense>
   <xr type="analogy"><ptr target="iaeth"/>, <ptr target="achad"/></xr>
 </entry>
