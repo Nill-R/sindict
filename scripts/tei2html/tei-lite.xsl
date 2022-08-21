@@ -30,7 +30,7 @@
 <xsl:param name="body">yes</xsl:param>
 <xsl:param name="search"/>
 <xsl:param name="language">en</xsl:param>
-<xsl:param name="translations">fr,en</xsl:param>
+<xsl:param name="translations">ru,fr,en</xsl:param>
 
 <!-- SPACES
      Handling correct spacing can't be done easily in XSLT, as the

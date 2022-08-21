@@ -12,9 +12,11 @@
     <titleStmt lang="en">
       <title lang="en">A Sindarin and Noldorin dictionary</title>
       <title lang="fr">Un dictionnaire sindarin et noldorin</title>
+      <title lang="ru">Словарь Синдарина и Нолдорина</title>
       <respStmt>
         <resp lang="en">Compiled, edited and annotated by The Sindarin Dictionary Project</resp>
         <resp lang="fr">Compilé, édité, annoté et traduit par The Sindarin Dictionary Project</resp>
+        <resp lang="ru">Версия на русском языке создана, отредактирована и аннотирована Ниллом Рингилом</resp>
       </respStmt>
     </titleStmt>
 
