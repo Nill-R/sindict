@@ -284,6 +284,7 @@
     <langUsage>
       <language id="fr">French</language>
       <language id="en">English</language>
+      <language id="ru">Russian</language>
     </langUsage>
   </profileDesc>
 </teiHeader>
@@ -313,6 +314,9 @@
     <trans lang="en">
       <def><index level1="and" lang="en"/>and</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="и" lang="ru"/>и</def>
+    </trans>
   </sense>
   <note type="source"><bibl>LotR/II:IV, LotR/VI:IV, S/428, SD/129-31, LB/354, Letters/308, PE/17:41, VT/50:18-20</bibl></note>
   <note type="comment" lang="fr">
@@ -320,6 +324,9 @@
   </note>
   <note type="comment" lang="en">
     See <ptr target="ah"/> for the form that this conjunction might take before a vowel.
+  </note>
+  <note type="comment" lang="ru">
+    См. <ptr target="ah"/> для формы перед гласной
   </note>
 </entry>
 
