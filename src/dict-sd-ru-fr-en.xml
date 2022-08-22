@@ -525,6 +525,9 @@
     <trans lang="en">
       <def>(?) <index level1="but" lang="en"/>but</def>
     </trans>
+    <trans lang="ru">
+      <def>(?) <index level1="но" lang="ru"/>но</def>
+    </trans>
   </sense>
   <note type="source,deduced"><mentioned>ach hí in Ellath îr ed epholar</mentioned> *“but now the Elves alone (?remember) it” <bibl>VT/50:15</bibl></note>
 </entry>
@@ -546,8 +549,12 @@
       <def><index lang="fr" level1="cou"/>cou</def> <usg type="hint">s’appliquant strictement au haut de la colonne vertébrale, sans inclure la gorge</usg>, <def><index lang="fr" level1="nuque"/>nuque</def>
     </trans>
     <trans lang="en">
-      <def><bibl>RC/537</bibl> <index level1="neck" lang="en"/>neck</def> <usg type="hint">properly referring only to the bony vertebral part not including the throat</usg>
+      <def> <index level1="neck" lang="en"/>neck</def> <usg type="hint">properly referring only to the bony vertebral part not including the throat</usg>
     </trans>
+    <trans lang="ru">
+      <def> <index level1="neck" lang="ru"/>шея</def> <usg type="hint">относится только к костной части позвоночника, не включая горло</usg>
+    </trans>
+    <note type="source"><bibl>RC/537</bibl></note>
   </sense>
   <sense>
     <gramGrp>
@@ -558,8 +565,12 @@
       <def><index lang="fr" level1="col"/>cou, crête rocheuse</def>
     </trans>
     <trans lang="en">
-      <def><bibl>PE/17:92, PE/17:146</bibl> <index level1="neck" lang="en"/>neck, rock <index level1="ridge" lang="en"/>ridge</def> <usg type="hint">geographically</usg>
+      <def><index level1="neck" lang="en"/>neck, rock <index level1="ridge" lang="en"/>ridge</def> <usg type="hint">geographically</usg>
     </trans>
+    <trans lang="ru">
+      <def><index level1="перешеек" lang="ru"/>перешеек, горловина, <index level1="горный хребет" lang="en"/>горный хребет</def>
+    </trans>
+    <note type="source"> <bibl>PE/17:92, PE/17:146</bibl> </note>
   </sense>
   <etym>Q. axo, axë</etym>
   <xr type="analogy"><ptr target="ach.1"/></xr>
@@ -581,6 +592,9 @@
     </trans>
     <trans lang="en">
       <def>to <index lang="en" level1="avenge"/>avenge, to <index lang="en" level1="react"/>react</def>
+    </trans>
+      <trans lang="ru">
+      <def><index lang="ru" level1="мстить"/>мстить, <index lang="en" level1="react"/>реагировать</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>achared, acharn</mentioned> <bibl>WJ/254, PE/17:166-167</bibl></note>
