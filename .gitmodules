@@ -1,0 +1,3 @@
+[submodule "omikhleia-sile-packages"]
+	path = omikhleia-sile-packages
+	url = https://github.com/Omikhleia/omikhleia-sile-packages.git
