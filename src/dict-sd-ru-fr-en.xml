@@ -624,8 +624,12 @@
       <def><index lang="fr" level1="vengeance"/>vengeance</def>
     </trans>
     <trans lang="en">
-      <def><bibl>PE/17:167</bibl> <index level1="vengeance" lang="en"/>vengeance</def>
+      <def><index level1="vengeance" lang="en"/>vengeance</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="мщение" lang="ru"/>мщение</def>
+    </trans>
+    <note type="source"><bibl>PE/17:167</bibl></note>
   </sense>
 </entry>
 
@@ -648,6 +652,10 @@
       <def><bibl>WJ/254, WJ/301</bibl> <index level1="vengeance" lang="en"/>vengeance,
            <bibl>PE/17:167</bibl> (an act of) <index level1="revenge" lang="en"/>revenge</def>
     </trans>
+        <trans lang="ru">
+      <def><bibl>WJ/254, WJ/301</bibl> <index level1="месть" lang="ru"/>месть,
+           <bibl>PE/17:167</bibl> акт <index level1="revenge" lang="ru"/>возмездия</def>
+    </trans>
   </sense>
 </entry>
 
@@ -668,10 +676,14 @@
     <trans lang="en">
       <def><index level1="dread" lang="en"/>dread, <index level1="fear" lang="en"/>fear</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="ужас" lang="ru"/>ужас, <index level1="страх" lang="ru"/>страх</def>
+    </trans>
   </sense>
   <note type="source,deduced"><mentioned>Daerachas</mentioned> <bibl>WJ/187</bibl></note>
   <note type="comment" lang="fr">Il pourrait aussi s’agir de <hi>*gachas</hi>, muté en composition </note>
   <note type="comment" lang="en">This might also be <hi>*gachas</hi>, mutated in composition</note>
+  <note type="comment" lang="ru">Так же это может быть мутировавшее <hi>*gachas</hi></note>
 </entry>
 
 <entry type="affix" id="ad-">
@@ -690,6 +702,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="back" lang="en"/>back, <index level1="again" lang="en"/>again, re-</def>
+    </trans>
+    <trans lang="en">
+      <def><index level1="назад" lang="ru"/>назад, <index level1="снова" lang="ru"/>снова</def>
     </trans>
   </sense>
   <note type="source"><bibl>Ety/349, VT/45:6</bibl></note>
@@ -714,6 +729,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/349</bibl> <index level1="father" lang="en"/>father, <index level1="daddy" lang="en"/>daddy</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/349</bibl> <index level1="отец" lang="ru"/>отец, <index level1="папа" lang="ru"/>папа</def>
     </trans>
   </sense>
 </entry>
@@ -749,6 +767,9 @@
       <def><bibl>Ety/390</bibl> <index level1="building" lang="en"/>building,
            <index level1="house" lang="en"/>house</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="building" lang="ru"/>строение, <index level1="house" lang="ru"/>дом</def>
+    </trans>
   </sense>
 </entry>
 
@@ -775,6 +796,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="man" lang="en"/>man, one of the Second People</def> <usg type="hint">elvish name for men</usg>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="человек" lang="ru"/>человек, один из Второго народа</def> <usg type="hint">эльфийское название людей</usg>
     </trans>
   </sense>
   <note type="source"><bibl>LotR/A(v), S/427, PM/324, WJ/387, Letters/282, PE/17:89,127, VT/50:14,18</bibl></note>
