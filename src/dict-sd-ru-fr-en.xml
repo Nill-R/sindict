@@ -838,6 +838,9 @@
     <trans lang="en">
       <def><index level1="man" lang="en"/>man, <bibl>MR/373</bibl> one of the Fathers of Men</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="человек" lang="ru"/>человек, <bibl>MR/373</bibl> один из Отцов Людей</def>
+    </trans>
   </sense>
   <etym>adan+adar</etym>
 </entry>
@@ -861,6 +864,9 @@
     <trans lang="en">
       <def><bibl>MR/373</bibl> <index level1="man" lang="en"/>men</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="человек" lang="ru"/>люди</def>
+    </trans>
   </sense>
 </entry>
 
@@ -881,6 +887,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>MR/349, MR/470</bibl> (mortal) <index level1="woman" lang="en"/>woman</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>MR/349, MR/470</bibl> (смертная) <index level1="woman" lang="ru"/>женщина</def>
     </trans>
   </sense>
   <etym>adan+-eth</etym>
@@ -921,6 +930,9 @@
     <trans lang="en">
       <def><bibl>Ety/349, PM/324, VT/44:22</bibl> <index level1="father" lang="en"/>father</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/349, PM/324, VT/44:22</bibl> <index level1="father" lang="ru"/>отец</def>
+    </trans>
   </sense>
   <re corresp="ada">
     <form>
@@ -958,6 +970,9 @@
     <trans lang="en">
       <def><bibl>PE/17:167</bibl> to <index level1="rephrase" lang="en"/>rephrase</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="перефразировать" lang="ru"/>перефразировать</def>
+    </trans>
   </sense>
   <etym>ad-+ped-</etym>
 </entry>
@@ -980,6 +995,9 @@
     <trans lang="en">
       <def><bibl>Ety/392</bibl> <index level1="behind" lang="en"/>behind, in <index level1="rear" lang="en"/>rear (of)</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="сзади" lang="ru"/>позади, <index level1="позади" lang="ru"/>сзади (от)</def>
+    </trans>
   </sense>
 </entry>
 
@@ -999,6 +1017,9 @@
     </trans>
     <trans lang="en">
       <def>to <index level1="reunite" lang="en"/>reunite</def>
+    </trans>
+    <trans lang="ru">
+      <def>to <index level1="встреча" lang="en"/>встреча</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>Aderthad</mentioned> <bibl>S/134, S/409</bibl></note>
@@ -1031,6 +1052,9 @@
     <trans lang="en">
       <def><bibl>S/134, S/409</bibl> <index level1="reuniting" lang="en"/>reuniting</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="reuniting" lang="en"/>воссоединение</def>
+    </trans>
   </sense>
 </entry>
 
@@ -1056,6 +1080,9 @@
     <trans lang="en">
       <def><bibl>Ety/390</bibl> <index level1="sloping" lang="en"/>sloping,
            <index level1="tilted" lang="en"/>tilted</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="наклонный" lang="ru"/>наклонный</def>
     </trans>
   </sense>
 </entry>
