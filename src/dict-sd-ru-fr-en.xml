@@ -104,7 +104,7 @@
     </publicationStmt>
     <publicationStmt>
       <publisher>Nill Ringil</publisher>
-      <date>2022</date>
+      <date>2022-2025</date>
     </publicationStmt>
 
     <notesStmt>
@@ -1119,6 +1119,9 @@
     <trans lang="en">
       <def><bibl>Ety/390</bibl> to <index level1="slope" lang="en"/>slope, <index level1="slant" lang="en"/>slant</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="наклонять"/>наклонять, <index lang="ru" level1="склонять"/>склонять, быть <index lang="ru" level1="наклонный"/>наклонным</def>
+    </trans>
   </sense>
 </entry>
 
@@ -1143,6 +1146,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/390</bibl> <index level1="oblique" lang="en"/>oblique, <index level1="slanting" lang="en"/>slanting</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="косой"/>косой, <index lang="ru" level1="наклонный"/>наклонный</def>
     </trans>
   </sense>
 </entry>
@@ -1181,6 +1187,9 @@
     <trans lang="en">
       <def><bibl>VT/45:27</bibl> to <index level1="loose" lang="en"/>loose, let loose, <index level1="release" lang="en"/>release</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="освобождать"/>освобождать, <index lang="ru" level1="отпускать"/>отпускать, <index lang="ru" level1="развязывать"/>развязывать</def>
+    </trans>
   </sense>
 </entry>
 
@@ -1198,13 +1207,16 @@
     </gramGrp>
     <usg type="cat" norm="14.46"/>
     <trans lang="fr">
-      <def>le <index lang="fr" level1="soir"/>soir, heure de l’apparition des étoiles, « evendim »</def>
+      <def>le <index lang="fr" level1="soir"/>soir, heure de l'apparition des étoiles, « evendim »</def>
     </trans>
     <trans lang="en">
-      <def><bibl>LotR/D</bibl> the <index level1="evening" lang="en"/>evening, time of star-opening, “evendim”</def>
+      <def><bibl>LotR/D</bibl> the <index level1="evening" lang="en"/>evening, time of star-opening, "evendim"</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="вечер"/>вечер, время появления звёзд, «звёздные сумерки»</def>
     </trans>
   </sense>
-  <etym>ad + uial “second twilight”</etym>
+  <etym>ad + uial "second twilight"</etym>
 </entry>
 
 <entry id="advir">
@@ -1224,6 +1236,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>PE/17:165</bibl> <index level1="heirloom" lang="en"/>heirloom</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="наследие"/>наследие, <index lang="ru" level1="реликвия"/>реликвия</def>
     </trans>
   </sense>
 </entry>
@@ -1246,12 +1261,18 @@
     <trans lang="en">
       <def><bibl>VT/44:21,22</bibl> O!</def>
     </trans>
+    <trans lang="ru">
+      <def>О!</def>
+    </trans>
   </sense>
   <note type="comment" lang="fr">
     Voir aussi <ptr target="ai.1"/> et <ptr target="a.2"/>
   </note>
   <note type="comment" lang="en">
     See also <ptr target="ai.1"/> and <ptr target="a.2"/>
+  </note>
+  <note type="comment" lang="ru">
+    См. также <ptr target="ai.1"/> и <ptr target="a.2"/>
   </note>
 </entry>
 
@@ -1273,6 +1294,9 @@
     <trans lang="en">
       <def><index level1="sea" lang="en"/>sea</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="море"/>море</def>
+    </trans>
   </sense>
   <re corresp="aearon">
     <form>
@@ -1287,6 +1311,9 @@
   </note>
   <note type="comment" lang="en">
     Tolkien changed this word several times, see <ptr target="gaear"/>
+  </note>
+  <note type="comment" lang="ru">
+    Толкин несколько раз изменял это слово, см. <ptr target="gaear"/>
   </note>
 </entry>
 
