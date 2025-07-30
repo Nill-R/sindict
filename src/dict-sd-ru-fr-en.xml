@@ -105,7 +105,7 @@
     </publicationStmt>
     <publicationStmt>
       <publisher>Nill Ringil</publisher>
-      <date>2022-2025</date>
+      <date>2022 - 2025</date>
     </publicationStmt>
 
     <notesStmt>
@@ -1337,12 +1337,18 @@
     <trans lang="en">
       <def>great <index level1="sea" lang="en"/>sea, ocean</def>
     </trans>
+    <trans lang="ru">
+      <def>великое <index lang="ru" level1="море"/>море, <index lang="ru" level1="океан"/>океан</def>
+    </trans>
   </sense>
   <note type="comment" lang="fr">
     Tolkien modifia ce mot plusieurs fois, voir <ptr target="gaearon"/>
   </note>
   <note type="comment" lang="en">
     Tolkien changed this word several times, see <ptr target="gaearon"/>
+  </note>
+  <note type="comment" lang="ru">
+    Толкин несколько раз изменял это слово, см. <ptr target="gaearon"/>
   </note>
 </entry>
 
@@ -1363,6 +1369,9 @@
     <trans lang="en">
       <def><index level1="point" lang="en"/>point</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="острие"/>острие</def>
+    </trans>
   </sense>
   <note type="source,deduced"><mentioned>aeglir, aeglos</mentioned>, etc.</note>
   <re corresp="aegas">
@@ -1374,18 +1383,25 @@
     </gramGrp>
   </re>
   <note type="comment" lang="fr">
-    L’adjectif <hi>oeg</hi> « acéré, pointu, perçant » dans <bibl>Ety/349</bibl>
-    est peut-être rejeté: Tolkien décida plus tard qu’aucun équivalent du terme quenya
-    <hi>aica</hi> « féroce, terrible, affreux » n’était utilisé en sindarin, « bien que <hi>aeg</hi>
-    aurait été sa forme s’il avait existé » (<bibl>PM/347</bibl>). D’un autre côté, nous avons aussi des mots comme
+    L'adjectif <hi>oeg</hi> « acéré, pointu, perçant » dans <bibl>Ety/349</bibl>
+    est peut-être rejeté: Tolkien décida plus tard qu'aucun équivalent du terme quenya
+    <hi>aica</hi> « féroce, terrible, affreux » n'était utilisé en sindarin, « bien que <hi>aeg</hi>
+    aurait été sa forme s'il avait existé » (<bibl>PM/347</bibl>). D'un autre côté, nous avons aussi des mots comme
     <ptr target="aeglos"/> et <ptr target="aeglir"/>, aussi doit-il y avoir un nom <hi>aeg</hi> « pointe »
   </note>
   <note type="comment" lang="en">
-    The adjective <hi>oeg</hi> “sharp, pointed, piercing” from <bibl>Ety/349</bibl> is
-    perhaps rejected: Tolkien later decided that no cognate of Quenya <hi>aica</hi> “fell,
-    terrible, dire” was used in Sindarin, “though <hi>aeg</hi> would have been its form
-    if it had occurred” (<bibl>PM/347</bibl>). On the other hand, we have words such
-    as <ptr target="aeglos"/> and <ptr target="aeglir"/>, so there must be a noun <hi>aeg</hi> “point”
+    The adjective <hi>oeg</hi> "sharp, pointed, piercing" from <bibl>Ety/349</bibl> is
+    perhaps rejected: Tolkien later decided that no cognate of Quenya <hi>aica</hi> "fell,
+    terrible, dire" was used in Sindarin, "though <hi>aeg</hi> would have been its form
+    if it had occurred" (<bibl>PM/347</bibl>). On the other hand, we have words such
+    as <ptr target="aeglos"/> and <ptr target="aeglir"/>, so there must be a noun <hi>aeg</hi> "point"
+  </note>
+  <note type="comment" lang="ru">
+    Прилагательное <hi>oeg</hi> «острый, заострённый, пронизывающий» из <bibl>Ety/349</bibl>
+    возможно отвергнуто: Толкин позже решил, что никакого эквивалента квенийского
+    <hi>aica</hi> «жестокий, ужасный, страшный» не использовалось в синдарине, «хотя <hi>aeg</hi>
+    была бы его формой, если бы оно существовало» (<bibl>PM/347</bibl>). С другой стороны, у нас есть такие слова как
+    <ptr target="aeglos"/> и <ptr target="aeglir"/>, поэтому должно существовать существительное <hi>aeg</hi> «острие»
   </note>
 </entry>
 
@@ -1424,6 +1440,9 @@
     <trans lang="en">
       <def><bibl>Ety/349</bibl> <index level1="mountain" lang="en"/>mountain <index level1="peak" lang="en"/>peak</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="пик"/>пик <index lang="ru" level1="гора"/>горы</def>
+    </trans>
   </sense>
 </entry>
 
@@ -1450,6 +1469,9 @@
     <trans lang="en">
       <def>range of <index level1="mountain" lang="en"/>mountain <index level1="peak" lang="en"/>peaks</def>
     </trans>
+    <trans lang="ru">
+      <def>цепь горных <index lang="ru" level1="пик"/>пиков</def>
+    </trans>
   </sense>
   <note type="source,deduced"><mentioned>Hithaeglir</mentioned> <bibl>LotR, Ety/349</bibl></note>
   <etym>aeg+lîr</etym>
@@ -1468,10 +1490,13 @@
     </gramGrp>
     <usg type="dom">Bot.</usg>
     <trans lang="fr">
-      <def><index lang="fr" level1="pointe"/>pointe de <index lang="fr" level1="neige"/>neige, <index lang="fr" level1="plante"/>plante qui ressemble à l’ajonc, mais plus grande et avec des fleurs blanches</def>
+      <def><index lang="fr" level1="pointe"/>pointe de <index lang="fr" level1="neige"/>neige, <index lang="fr" level1="plante"/>plante qui ressemble à l'ajonc, mais plus grande et avec des fleurs blanches</def>
     </trans>
     <trans lang="en">
       <def><index level1="snowthorn" lang="en"/>snowthorn, a <index level1="plant" lang="en"/>plant like furze (gorse), but larger and with white flowers</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="снежношип"/>снежношип, <index lang="ru" level1="растение"/>растение, похожее на утёсник, но больше и с белыми цветами</def>
     </trans>
   </sense>
   <sense>
@@ -1480,10 +1505,13 @@
     </gramGrp>
     <usg type="dom">Geol.</usg>
     <trans lang="fr">
-      <def><index lang="fr" level1="stalactite"/>stalactite (pointe de glace formée par la glaciation de l’eau qui s’écoule)</def>
+      <def><index lang="fr" level1="stalactite"/>stalactite (pointe de glace formée par la glaciation de l'eau qui s'écoule)</def>
     </trans>
     <trans lang="en">
       <def><index level1="icicle" lang="en"/>icicle (a pendent spear of ice formed by the freezing of dripping water)</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="сосулька"/>сосулька (висячее ледяное острие, образованное замерзанием стекающей воды)</def>
     </trans>
   </sense>
   <note type="source"><bibl>UT/417, LotR/Index</bibl></note>
