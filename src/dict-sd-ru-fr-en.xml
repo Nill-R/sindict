@@ -1557,9 +1557,14 @@
            <bibl>Ety/349, S/427</bibl> <index level1="pool" lang="en"/>pool,
            <bibl>S/427</bibl> <index level1="mere" lang="en"/>mere</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="озеро"/>озеро,
+           <index lang="ru" level1="пруд"/>пруд,
+           <index lang="ru" level1="водоём"/>водоём</def>
+    </trans>
   </sense>
-  <note type="source,deduced"><mentioned>Aelin-uial</mentioned> “Meres of Twilight” <bibl>S/427</bibl>,
-      <mentioned>Aeluin</mentioned> *“Blue lake” <bibl>S/162</bibl></note>
+  <note type="source,deduced"><mentioned>Aelin-uial</mentioned> "Meres of Twilight" <bibl>S/427</bibl>,
+      <mentioned>Aeluin</mentioned> *"Blue lake" <bibl>S/162</bibl></note>
 </entry>
 
 <entry id="aen">
@@ -1580,19 +1585,29 @@
     <trans lang="en">
       <def>(unknown meaning)</def>
     </trans>
+    <trans lang="ru">
+      <def>(значение неизвестно)</def>
+    </trans>
   </sense>
   <note type="comment" lang="fr">
-    Certains experts pensent que ce mot s’apparente au quenya <hi>nai</hi> « ainsi soit-il », par ex. <bibl>VT/31:16</bibl>.
-    D’autres considèrent qu’il s’agit peut-être du pronom pluriel « ils », ou encore une marque d’un subjonctif passif,
+    Certains experts pensent que ce mot s'apparente au quenya <hi>nai</hi> « ainsi soit-il », par ex. <bibl>VT/31:16</bibl>.
+    D'autres considèrent qu'il s'agit peut-être du pronom pluriel « ils », ou encore une marque d'un subjonctif passif,
     par ex. <bibl>VT/50:13</bibl>.
-    Le contexte dans lequel ce mot apparaît (la « Lettre du Roi ») n’est cependant pas suffisamment clair
+    Le contexte dans lequel ce mot apparaît (la « Lettre du Roi ») n'est cependant pas suffisamment clair
     pour interpréter sa signification avec certitude
    </note>
   <note type="comment" lang="en">
-    Some scholars believe this word to be cognate to Quenya <hi>nai</hi> “may it be”, e.g. <bibl>VT/31:16</bibl>. Other think that it is the pronoun “they”, or a subjunctive passive voice marker,
+    Some scholars believe this word to be cognate to Quenya <hi>nai</hi> "may it be", e.g. <bibl>VT/31:16</bibl>. Other think that it is the pronoun "they", or a subjunctive passive voice marker,
     e.g. <bibl>VT/50:13</bibl>.
-    The context in which this word occurs (The so-called “King’s Letter”) is not clear
+    The context in which this word occurs (The so-called "King's Letter") is not clear
     enough to intepret it with certainty
+  </note>
+  <note type="comment" lang="ru">
+    Некоторые исследователи считают, что это слово родственно квенийскому <hi>nai</hi> «да будет так», напр. <bibl>VT/31:16</bibl>.
+    Другие полагают, что это местоимение «они» или маркер сослагательного пассивного залога,
+    напр. <bibl>VT/50:13</bibl>.
+    Контекст, в котором встречается это слово (так называемое «Письмо Короля»), недостаточно ясен
+    для точной интерпретации его значения
   </note>
   <xr type="analogy"><ptr target="en.2"/></xr>
 </entry>
@@ -1615,12 +1630,18 @@
     <trans lang="en">
       <def><index level1="sea" lang="en"/>sea</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="море"/>море</def>
+    </trans>
   </sense>
   <note type="comment" lang="fr">
     Tolkien modifia ce mot plusieurs fois, voir <ptr target="aear"/>, <ptr target="gaear"/>
   </note>
   <note type="comment" lang="en">
     Tolkien changed this word several times, see <ptr target="aear"/>, <ptr target="gaear"/>
+  </note>
+  <note type="comment" lang="ru">
+    Толкин несколько раз изменял это слово, см. <ptr target="aear"/>, <ptr target="gaear"/>
   </note>
 </entry>
 
@@ -1644,8 +1665,12 @@
       <def><index level1="holy" lang="en"/>holy,
            <index level1="hallowed" lang="en"/>hallowed</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="святой"/>святой,
+           <index lang="ru" level1="освящённый"/>освящённый</def>
+    </trans>
     <note type="source,deduced"><mentioned>no aer i eneth lín</mentioned>
-      “hallowed be thy name” <bibl>VT/44:21</bibl></note>
+      "hallowed be thy name" <bibl>VT/44:21</bibl></note>
   </sense>
 </entry>
 
@@ -1667,8 +1692,11 @@
     <trans lang="en">
       <def>(unknown meaning, perhaps a <index level1="song" lang="en"/>song about the sea, or possibly holy song)</def>
     </trans>
+    <trans lang="ru">
+      <def>(значение неизвестно, возможно <index lang="ru" level1="песня"/>песня о море или священная <index lang="ru" level1="песнь"/>песнь)</def>
+    </trans>
   </sense>
-  <etym>aer+lind (?) “sea-song” or (?) “holy song”, OS *airelinde</etym>
+  <etym>aer+lind (?) "sea-song" or (?) "holy song", OS *airelinde</etym>
 </entry>
 
 <entry id="aes">
@@ -1689,6 +1717,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/349</bibl> cooked <index level1="food" lang="en"/>food, <index level1="meat" lang="en"/>meat</def>
+    </trans>
+    <trans lang="ru">
+      <def>приготовленная <index lang="ru" level1="пища"/>пища, <index lang="ru" level1="мясо"/>мясо</def>
     </trans>
   </sense>
 </entry>
@@ -1712,6 +1743,9 @@
     <trans lang="en">
       <def><bibl>Ety/348</bibl> (small) <index level1="bird" lang="en"/>bird</def>
     </trans>
+    <trans lang="ru">
+      <def>(маленькая) <index lang="ru" level1="птица"/>птица</def>
+    </trans>
   </sense>
 </entry>
 
@@ -1731,6 +1765,9 @@
     </trans>
     <trans lang="en">
       <def>of <index level1="bird" lang="en"/>birds</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="птичий"/>птичий</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>Linaewen</mentioned> <bibl>S/434</bibl></note>
@@ -1754,6 +1791,9 @@
     <trans lang="en">
       <def><index level1="blood" lang="en"/>blood</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="кровь"/>кровь</def>
+    </trans>
   </sense>
   <note type="source,deduced"><mentioned>Agarwaen</mentioned> <bibl>S/378</bibl></note>
 </entry>
@@ -1775,6 +1815,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>S/378</bibl> <index level1="bloodstained" lang="en"/>blood-stained</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="окровавленный"/>окровавленный</def>
     </trans>
   </sense>
   <etym>agar+gwaen</etym>
