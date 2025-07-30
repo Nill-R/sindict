@@ -3,6 +3,7 @@
 <!--
      1999-2011 The Sindarin Dictionary Project.
      2014, 2017, 2019, 2021 Omikhleia et al.
+     2022 - 2025 Nill Ringil.
      For the full copyright information and details, refer to the TEI header below.
      In case of doubt, the English version of the TEI header applies.
 -->
@@ -21,7 +22,7 @@
     </titleStmt>
 
     <editionStmt>
-      <edition n="2.1"/>
+      <edition n="2.2"/>
     </editionStmt>
 
     <publicationStmt>
