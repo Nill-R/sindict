@@ -2229,6 +2229,9 @@
     <trans lang="en">
       <def><bibl>Ety/348, VT/45:5</bibl> <index level1="rushing" lang="en"/>rushing, <index level1="impetuous" lang="en"/>impetuous</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="стремительный"/>стремительный, <index lang="ru" level1="порывистый"/>порывистый</def>
+    </trans>
   </sense>
 </entry>
 
@@ -2251,6 +2254,9 @@
     <trans lang="en">
       <def><bibl>Ety/348</bibl> <index level1="storm" lang="en"/>storm of wind</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="буря"/>буря, <index lang="ru" level1="ветер"/>ветровая <index lang="ru" level1="шторм"/>буря</def>
+    </trans>
   </sense>
 </entry>
 
@@ -2272,6 +2278,9 @@
     <trans lang="en">
       <def><bibl>PE/17:146</bibl> (word of) good <index level1="omen" lang="en"/>omen</def>
     </trans>
+    <trans lang="ru">
+      <def>(слово) доброго <index lang="ru" level1="предзнаменование"/>предзнаменования</def>
+    </trans>
   </sense>
 </entry>
 
@@ -2292,6 +2301,9 @@
     <trans lang="en">
       <def><index level1="immortal" lang="en"/>immortal</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="бессмертный"/>бессмертный</def>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -2299,10 +2311,13 @@
     </gramGrp>
     <usg type="dom">Bot.</usg>
     <trans lang="fr">
-      <def>nom d’une <index lang="fr" level1="fleur"/>fleur, en forme de clochette et parée d’une multitude de couleurs douces et légères</def>
+      <def>nom d'une <index lang="fr" level1="fleur"/>fleur, en forme de clochette et parée d'une multitude de couleurs douces et légères</def>
     </trans>
     <trans lang="en">
       <def>name of a <index level1="flower" lang="en"/>flower, bell-like and running through many soft and gentle colours</def>
+    </trans>
+    <trans lang="ru">
+      <def>название <index lang="ru" level1="цветок"/>цветка, колокольчатого и переливающегося множеством мягких и нежных оттенков</def>
     </trans>
   </sense>
   <sense>
@@ -2315,6 +2330,9 @@
     </trans>
     <trans lang="en">
       <def>also used for another small white flower</def>
+    </trans>
+    <trans lang="ru">
+      <def>также используется для обозначения другого маленького белого цветка</def>
     </trans>
   </sense>
   <note type="source"><bibl>LotR/V:IX, Letters/402, UT/55, UT/303, UT/316, UT/417, PE/17:100, PE/22:153,156</bibl></note>
@@ -2356,9 +2374,12 @@
     <trans lang="en">
       <def><bibl>Ety/348, S/427, UT/265, LotR/E, VT/42:6-7, PE/17:100, NM/378</bibl> <index level1="swan" lang="en"/>swan</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="лебедь"/>лебедь</def>
+    </trans>
   </sense>
-  <note type="source,deduced"><mentioned>Nîn-in-Eilph</mentioned> “Swanfleet, Waterlands of the Swans” <bibl>VT42/7</bibl>,
-    “Waterlands of the Swans” <bibl>VT42/7, NM/378, UT/265</bibl>, <mentioned>Hobas in Elf</mentioned> <bibl>Ety/364</bibl></note>
+  <note type="source,deduced"><mentioned>Nîn-in-Eilph</mentioned> "Swanfleet, Waterlands of the Swans" <bibl>VT42/7</bibl>,
+    "Waterlands of the Swans" <bibl>VT42/7, NM/378, UT/265</bibl>, <mentioned>Hobas in Elf</mentioned> <bibl>Ety/364</bibl></note>
 </entry>
 
 <entry id="alu">
@@ -2392,6 +2413,9 @@
     <trans lang="en">
       <def><bibl>PE/17:146</bibl> wholesome</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="здоровый"/>здоровый</def>
+    </trans>
   </sense>
 </entry>
 
@@ -2415,6 +2439,10 @@
       <def><bibl>PE/17:146</bibl> <index level1="prosperous" lang="en"/>prosperous,
            <index level1="fortunate" lang="en"/>fortunate</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="процветающий"/>процветающий,
+           <index lang="ru" level1="удачливый"/>удачливый</def>
+    </trans>
   </sense>
 </entry>
 
@@ -2437,6 +2465,11 @@
       <def><bibl>Ety/348</bibl> <index level1="up" lang="en"/>up,
            <index level1="upwards" lang="en"/>upwards,
            <index level1="upon" lang="en"/>upon</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="вверх"/>вверх,
+           <index lang="ru" level1="наверх"/>наверх,
+           <index lang="ru" level1="над"/>над</def>
     </trans>
   </sense>
 </entry>
@@ -2469,10 +2502,17 @@
     <trans lang="en">
       <def><bibl>Ety/372</bibl> <index level1="earth" lang="en"/>earth,
            <bibl>TS6/183, NM/226-227</bibl> world</def> <usg type="hint">derived
-             from ‘settlement’, the great habitation (οἰκουμένη) as ‘home of speaking creatures’ etc.
-             so approaching in some uses the sense ‘Fate’</usg>,
+             from 'settlement', the great habitation (οἰκουμένη) as 'home of speaking creatures' etc.
+             so approaching in some uses the sense 'Fate'</usg>,
       <def><bibl>NM/300-301</bibl> settlement, appointed place, the Earth as the appointed dwelling
                  place or home of Elves (and Men), this world the Earth</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="земля"/>земля, <index lang="ru" level1="мир"/>мир</def>
+           <usg type="hint">происходит от «поселение», великое обиталище (οἰκουμένη) как
+            «дом говорящих созданий» и т.д., поэтому в некоторых употреблениях приближается к смыслу «Судьба»</usg>,
+      <def>поселение, назначенное место, Земля как назначенное жилище
+                 или дом эльфов (и людей), этот мир, Земля</def>
     </trans>
   </sense>
 </entry>
@@ -2497,6 +2537,9 @@
     <trans lang="en">
       <def><index level1="fate" lang="en"/>fate, <index level1="doom" lang="en"/>doom</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="судьба"/>судьба, <index lang="ru" level1="рок"/>рок</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/372, S/427, LotR/A(i), TC/183, TS6/184, NM/227-228</bibl></note>
 </entry>
@@ -2520,6 +2563,9 @@
       <def><bibl>PE/17:104</bibl> to define, decree, destine,
            <bibl>PE/17:105, NM/301</bibl> fate</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="определять"/>определять, <index lang="ru" level1="предопределять"/>предопределять, <index lang="ru" level1="судить"/>судить</def>
+    </trans>
   </sense>
   <xr type="analogy"><ptr target="bartha-"/></xr>
 </entry>
@@ -2541,6 +2587,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>VT/41:10</bibl> <index level1="fated" lang="en"/>fated one</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="обречённый"/>обречённый</def>
     </trans>
   </sense>
 </entry>
@@ -2566,6 +2615,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>VT/45:33</bibl> <index level1="shield" lang="en"/>shield</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="щит"/>щит</def>
     </trans>
   </sense>
 </entry>
@@ -2596,6 +2648,9 @@
     <trans lang="en">
       <def><index level1="uphill" lang="en"/>uphill, sloping <index level1="upwards" lang="en"/>upwards</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="вверх"/>вверх по склону, <index lang="ru" level1="наклон"/>с наклоном вверх</def>
+    </trans>
   </sense>
   <etym>am+pend</etym>
 </entry>
@@ -2618,8 +2673,11 @@
     <trans lang="en">
       <def><bibl>MR/320,470</bibl> <index level1="hope" lang="en"/>hope based on reason</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="надежда"/>надежда, основанная на разуме</def>
+    </trans>
   </sense>
-  <etym>am+tîr “looking up”</etym>
+  <etym>am+tîr "looking up"</etym>
 </entry>
 
 <entry id="amloth">
@@ -2636,13 +2694,16 @@
     </gramGrp>
     <usg type="dom">Mil.</usg>
     <trans lang="fr">
-      <def>ornement en forme de <index lang="fr" level1="fleur"/>fleur ou de composition florale, utilisé comme <index lang="fr" level1="crête"/>crête à la pointe d’un casque ou d’un heaume, c’est-à-dire comme <index lang="fr" level1="cimier"/>cimier</def>
+      <def>ornement en forme de <index lang="fr" level1="fleur"/>fleur ou de composition florale, utilisé comme <index lang="fr" level1="crête"/>crête à la pointe d'un casque ou d'un heaume, c'est-à-dire comme <index lang="fr" level1="cimier"/>cimier</def>
     </trans>
     <trans lang="en">
       <def><bibl>WJ/318</bibl> flower or floreate device used as <index level1="crest" lang="en"/>crest fixed to the point of a tall helmet</def>
     </trans>
+    <trans lang="ru">
+      <def>украшение в виде <index lang="ru" level1="цветок"/>цветка или цветочного узора, используемое как <index lang="ru" level1="гребень"/>гребень, закреплённый на вершине высокого шлема</def>
+    </trans>
   </sense>
-  <etym>am+loth “uprising flower”</etym>
+  <etym>am+loth "uprising flower"</etym>
 </entry>
 
 <entry id="amlug">
@@ -2663,10 +2724,13 @@
     <trans lang="en">
       <def><bibl>Ety/349</bibl><index level1="dragon" lang="en"/>dragon</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="дракон"/>дракон</def>
+    </trans>
   </sense>
 </entry>
 
- <entry id="ammen">
+<entry id="ammen">
   <form type="regular">
     <form>
       <orth>ammen</orth><usg type="lang" norm="S."/>
@@ -2682,6 +2746,9 @@
     </trans>
     <trans lang="en">
       <def>of <index level1="us" lang="en"/>us, for us, to(ward) us</def>
+    </trans>
+    <trans lang="ru">
+      <def>от <index lang="ru" level1="нас"/>нас, для нас, к нам</def>
     </trans>
   </sense>
   <note type="source"><bibl>LotR/II:IV, LB/354, VT/44:21,27, PE/17:38, VT/50:23</bibl></note>
@@ -2716,6 +2783,9 @@
     <trans lang="en">
       <def><index level1="hill" lang="en"/>hill, steep-sided <index level1="mount" lang="en"/>mount</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="холм"/>холм, <index lang="ru" level1="гора"/>гора с крутыми склонами</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/348, LotR/E, RC/334, PE/17:61, NM/389</bibl></note>
 </entry>
@@ -2737,9 +2807,12 @@
     <trans lang="en">
       <def><index level1="east" lang="en"/>east, <index level1="orient" lang="en"/>orient</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="восток"/>восток</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/348, Ety/384, S/437, LotR/E, PE/22:35,41</bibl></note>
-  <etym>am+rhûn “uprising, sunrise”</etym>
+  <etym>am+rhûn "uprising, sunrise"</etym>
 </entry>
 
 <entry id="an">
