@@ -1840,6 +1840,9 @@
     <trans lang="en">
       <def><index level1="glory" lang="en"/>glory, <index level1="brilliance" lang="en"/>brilliance, <index level1="splendour" lang="en"/>splendour</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="слава"/>слава, <index lang="ru" level1="блеск"/>блеск, <index lang="ru" level1="великолепие"/>великолепие</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/348, S/427, LotR/II:I, LotR/VI:IV, RGEO/73, VT/47:13, PE/18:87</bibl></note>
 </entry>
@@ -1860,6 +1863,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="glorious" lang="en"/>glorious</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="славный"/>славный</def>
     </trans>
   </sense>
   <note type="source"><bibl>Ety/348, S/427, WJ/412</bibl></note>
@@ -1892,6 +1898,9 @@
       <def><bibl>Ety/348</bibl> <index level1="defile" lang="en"/>defile,
            <index level1="pass" lang="en"/>pass between high walls</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="ущелье"/>ущелье, <index lang="ru" level1="проход"/>проход между высокими стенами</def>
+    </trans>
   </sense>
 </entry>
 
@@ -1912,6 +1921,9 @@
     </trans>
     <trans lang="en">
      <def><bibl>PE/18:87</bibl> <index level1="brilliant" lang="en"/>brilliant, <index level1="glorious" lang="en"/>glorious</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="блестящий"/>блестящий, <index lang="ru" level1="славный"/>славный</def>
     </trans>
   </sense>
   <xr type="analogy"><ptr target="aglareb"/></xr>
@@ -1939,6 +1951,9 @@
     <trans lang="en">
       <def><bibl>Ety/348</bibl> <index level1="narrow" lang="en"/>narrow</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="узкий"/>узкий</def>
+    </trans>
   </sense>
 </entry>
 
@@ -1960,27 +1975,38 @@
     <trans lang="en">
       <def><bibl>MR/329</bibl> <index level1="and" lang="en"/>and, <index level1="with" lang="en"/>with</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="и"/>и, <index lang="ru" level1="с"/>с</def>
+    </trans>
   </sense>
   <note type="comment" lang="fr">
     Le titre <hi>Athrabeth Finrod ah Andreth</hi> est traduit par « conversation de Finrod et Andreth »,
-    mais certains experts pensent que ce mot n’a aucun rapport avec la conjonction
+    mais certains experts pensent que ce mot n'a aucun rapport avec la conjonction
     <ptr target="a.1"/>, <hi>ar</hi> « et », et ils le traduisent par « avec ».
-    D’autres soutiennent que « et » et « avec » (au sens commitatif) ne s’excluent pas l’un et
-    l’autre, et considèrent <hi>ah</hi> comme la forme prise par cette conjonction
+    D'autres soutiennent que « et » et « avec » (au sens commitatif) ne s'excluent pas l'un et
+    l'autre, et considèrent <hi>ah</hi> comme la forme prise par cette conjonction
     devant une voyelle. Il a finalement été confirmé, dans <bibl>VT/43:29-30</bibl>, que <hi>a, ar</hi> et
-    <hi>ah</hi> relèvent d’une même étymologie. Comparer avec le gallois, où la coordination
-    « et » prend aussi plusieurs formes selon qu’elle apparaît devant une voyelle ou une
+    <hi>ah</hi> relèvent d'une même étymologie. Comparer avec le gallois, où la coordination
+    « et » prend aussi plusieurs formes selon qu'elle apparaît devant une voyelle ou une
     consonne (respectivement <hi>ac</hi> et <hi>a</hi>). Dans la langue écrite, <hi>a</hi>
     entraîne fréquemment une mutation aspirante: <hi>bara a chaws</hi> « du pain et du fromage ».
-    Cet usage est rarement appliqué à l’oral (<hi>Modern Welsh</hi> §510)
+    Cet usage est rarement appliqué à l'oral (<hi>Modern Welsh</hi> §510)
   </note>
   <note type="comment" lang="en">
     The title <hi>Athrabeth Finrod ah Andreth</hi> is translated
-    as “converse of Finrod and Andreth”, but some scholars actually believe this word to be
-    unrelated with the conjunction <ptr target="a.1"/>, <hi>ar</hi> “and”, and they render it as “with”. Other scholars consider that “and” and “with” (in the comitative sense) are not exclusive of each other, and regard <hi>ah</hi> as the form taken by this conjunction before a vowel.
+    as "converse of Finrod and Andreth", but some scholars actually believe this word to be
+    unrelated with the conjunction <ptr target="a.1"/>, <hi>ar</hi> "and", and they render it as "with". Other scholars consider that "and" and "with" (in the comitative sense) are not exclusive of each other, and regard <hi>ah</hi> as the form taken by this conjunction before a vowel.
     That <hi>a, ar</hi> and <hi>ah</hi> are etymologically related has finally been confirmed in <bibl>VT/43:29-30</bibl>.
-    Compare also with Welsh, where the coordination “and” also takes different forms whether it occurs before a vowel or a consonant (respectively <hi>ac</hi> and <hi>a</hi>). In written Welsh, <hi>a</hi> often triggers the aspirate mutation:
-    <hi> bara a chaws</hi> “bread and cheese”. This usage is seldom applied in colloquial Welsh (<hi>Modern Welsh</hi> §510)
+    Compare also with Welsh, where the coordination "and" also takes different forms whether it occurs before a vowel or a consonant (respectively <hi>ac</hi> and <hi>a</hi>). In written Welsh, <hi>a</hi> often triggers the aspirate mutation:
+    <hi> bara a chaws</hi> "bread and cheese". This usage is seldom applied in colloquial Welsh (<hi>Modern Welsh</hi> §510)
+  </note>
+  <note type="comment" lang="ru">
+    Название <hi>Athrabeth Finrod ah Andreth</hi> переводится
+    как «беседа Финрода и Андрет», но некоторые исследователи считают, что это слово не связано
+    с союзом <ptr target="a.1"/>, <hi>ar</hi> «и», и переводят его как «с». Другие исследователи полагают, что «и» и «с» (в комитативном смысле) не исключают друг друга, и рассматривают <hi>ah</hi> как форму этого союза перед гласной.
+    То, что <hi>a, ar</hi> и <hi>ah</hi> этимологически связаны, было окончательно подтверждено в <bibl>VT/43:29-30</bibl>.
+    Сравните также с валлийским, где союз «и» также принимает разные формы в зависимости от того, стоит ли он перед гласной или согласной (соответственно <hi>ac</hi> и <hi>a</hi>). В письменном валлийском <hi>a</hi> часто вызывает придыхательную мутацию:
+    <hi>bara a chaws</hi> «хлеб и сыр». Это употребление редко применяется в разговорном валлийском (<hi>Modern Welsh</hi> §510)
   </note>
 </entry>
 
@@ -2003,15 +2029,22 @@
       <def><bibl>LotR/I:XII</bibl> <index level1="ah" lang="en"/>ah!
            <bibl>PE/17:16</bibl> <index level1="hail" lang="en"/>hail!</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="ах"/>ах! <index lang="ru" level1="привет"/>Привет!</def>
+    </trans>
   </sense>
   <note type="comment" lang="fr">
-    Bien qu’attesté dans le SdA, ce mot serait à rapprocher de <ptr target="ae.1"/>,
+    Bien qu'attesté dans le SdA, ce mot serait à rapprocher de <ptr target="ae.1"/>,
     avec un changement habituel de <hi>ai</hi> en <hi>ae</hi> entre le noldorin
     et le sindarin
   </note>
   <note type="comment" lang="en">
     Though attested in LotR, this word might relate to <ptr target="ae.1"/>,
     with the regular change from <hi>ai</hi> to <hi>ae</hi> between Noldorin and Sindarin
+  </note>
+  <note type="comment" lang="ru">
+    Хотя это слово засвидетельствовано во ВК, оно может быть связано с <ptr target="ae.1"/>,
+    с регулярным изменением <hi>ai</hi> в <hi>ae</hi> между нолдорином и синдарином
   </note>
 </entry>
 
@@ -2033,9 +2066,12 @@
     <trans lang="en">
       <def>for those <index level1="who" lang="en"/>who</def>
     </trans>
+    <trans lang="ru">
+      <def>для тех, <index lang="ru" level1="кто"/>кто</def>
+    </trans>
   </sense>
   <note type="source,deduced"><mentioned>di ai gerir úgerth ammen</mentioned>
-    “those who trespass against us” <bibl>VT/44:21,30</bibl></note>
+    "those who trespass against us" <bibl>VT/44:21,30</bibl></note>
 </entry>
 
 <entry id="air">
