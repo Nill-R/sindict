@@ -2096,6 +2096,9 @@
     <trans lang="en">
       <def><bibl>PE/17:28</bibl> lonely</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="одинокий"/>одинокий</def>
+    </trans>
   </sense>
 </entry>
 
@@ -2116,6 +2119,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/355</bibl> <index level1="spearpoint" lang="en"/>spearpoint</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="наконечник"/>наконечник <index lang="ru" level1="копьё"/>копья</def>
     </trans>
   </sense>
 </entry>
@@ -2138,6 +2144,9 @@
     <trans lang="en">
       <def><bibl>Ety/367</bibl> <index level1="no" lang="en"/>no, <index level1="not" lang="en"/>not</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="не"/>не, <index lang="ru" level1="нет"/>нет</def>
+    </trans>
   </sense>
 </entry>
 
@@ -2159,14 +2168,21 @@
     <trans lang="en">
       <def>(?) <index level1="behold" lang="en"/>behold!</def>
     </trans>
+    <trans lang="ru">
+      <def>(?) <index lang="ru" level1="смотрите"/>смотрите!</def>
+    </trans>
   </sense>
   <note type="comment" lang="fr">
-    Signification incertaine, mais comparer avec l’exclamation impérative <hi>ela!</hi> en quenya,
+    Signification incertaine, mais comparer avec l'exclamation impérative <hi>ela!</hi> en quenya,
     « attirant le regard sur un objet visible » (<bibl>WJ/362</bibl>)
    </note>
   <note type="comment" lang="en">
-    Uncertain meaning, but compare with Quenya <hi>ela!</hi> “imperative exclamation directing
-    sight to an actually visible object” (<bibl>WJ/362</bibl>)
+    Uncertain meaning, but compare with Quenya <hi>ela!</hi> "imperative exclamation directing
+    sight to an actually visible object" (<bibl>WJ/362</bibl>)
+  </note>
+  <note type="comment" lang="ru">
+    Значение неопределённое, но сравните с квенийским <hi>ela!</hi> «повелительное восклицание, направляющее
+    взгляд на видимый объект» (<bibl>WJ/362</bibl>)
   </note>
 </entry>
 
@@ -2188,6 +2204,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>PE/17:153</bibl> elm</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="вяз"/>вяз</def>
     </trans>
   </sense>
 </entry>
