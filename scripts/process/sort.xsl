@@ -8,7 +8,7 @@
 <xsl:stylesheet version="1.0" 
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:func="http://exslt.org/functions"
-                xmlns:my="http://github.com/Omikhleia/sindict"
+                xmlns:my="http://gitlab.com/nill.ringil/sindict"
                 extension-element-prefixes="func">
 
 <xsl:import href="include-noaccent.xsl"/>

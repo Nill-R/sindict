@@ -10,7 +10,7 @@ This is an attempt started around 2019 to repair and share a somehow working XML
 reconstructed from earlier versions, somehow playing Lego(tm) with e-mails, some manual chirurgical glue and some automated back-conversions and
 reassembly...
 
-Most people landing on this page might probably rather be looking for the latest [generated build](https://omikhleia.github.io/sindict/).
+Most people landing on this page might probably rather be looking for the latest [generated build](https://sindict.randk.xyz/).
 
 If you are looking for a more complete and comprehensive scholarly dictionary of Tolkien's invented languages, [Eldamo](https://github.com/pfstrack/eldamo)
 is certainly what you are looking for.

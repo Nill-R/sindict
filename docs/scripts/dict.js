@@ -163,8 +163,8 @@ function onClick(event) {
     && event.target.className !== 'entry') {
     const context = guessContext(event.target)
     const c = context && `[in ${context}]`
-    const gh = GitHubIssueUrl({
-      repository: 'https://github.com/Omikhleia/sindict',
+    const gh = GitLabIssueUrl({
+      repository: 'https://gitlab.com/nill.ringil/sindict',
       title: `(entry ${id}) ${text}`,
       body: `Issue on entry **${id}** (internal identifier)
 "${text}" ${c ? c : ''}
@@ -190,11 +190,11 @@ function onClick(event) {
   }
 }
 
-/* GitHub integration - open issue */
+/* GitLab integration - open issue */
 /* Derived from https://github.com/sindresorhus/new-github-issue-url/blob/main/index.js */
 /* MIT-licensed */
 
-function GitHubIssueUrl(options) {
+function GitLabIssueUrl(options) {
   let repository
   if (options.repository) {
     repository = options.repository

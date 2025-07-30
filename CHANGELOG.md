@@ -74,7 +74,7 @@ _Pre-Release_
 
 Target: make it look nice again.
 
-Additionally, the project now has a "live version" via "GitHub Pages".
+Additionally, the project now has a "live version" via "GitLab Pages".
 
 - Lexicon content updates (with apologies to those involved... sometimes years ago):
   - Several bunches of updates from PE/17.
@@ -87,7 +87,7 @@ Additionally, the project now has a "live version" via "GitHub Pages".
   - Improved HTML5/CSS3 layout.
   - Repaired project information (header, with toggle).
   - Clickable words:
-    - GitHub integration for easier issue reporting
+    - GitLab integration for easier issue reporting
     - Eldamo integration, just because.
 
 ## Edition 2.0-a5x (lexicon 1.0-alpha5) - April, 10 2021

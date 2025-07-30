@@ -1,12 +1,12 @@
 # How to contribute
 
-This small guide is intended for readers who have no prior knowledge of GitHub or Git.
+This small guide is intended for readers who have no prior knowledge of GitLab or Git.
 
 You do not need to be tech-savvy to participate.
 
 ## Prerequisites
 
-If it is not already the case, you need to [create a GitHub account](https://github.com/signup) for yourself.
+If it is not already the case, you need to [create a GitLab account](https://gitlab.com/users/sign_up) for yourself.
 
 ## Reporting simple errors or missing references
 
@@ -33,7 +33,7 @@ That wasn't hard, was it?
 
 ## Towards a more active contribution
 
-Go to the [Issues](https://github.com/Omikhleia/sindict/issues).
+Go to the [Issues](https://gitlab.com/nill.ringil/sindict/issues).
 
 Do not be afraid, you don't even need to read the code or whatever. I am sure you
 already know a few forums or blogs, and this should not be much different. These
@@ -51,7 +51,7 @@ That wasn't much harder, was it?
 
 If you are not afraid by XML...
 
-We'd then suggest you to go to the [code](https://github.com/Omikhleia/sindict) and to
+We'd then suggest you to go to the [code](https://gitlab.com/nill.ringil/sindict) and to
 click on the "Code" green button there. If you do not know what Git is, just "Download ZIP"
 and extract it somewhere on your computer. The lexicon is in the `src` folder.
 
@@ -61,4 +61,4 @@ details on the structure. Don't hesitate posting blurbs of XML in issues.
 ## Even further?
 
 Fork the project. Make changes. Commit. Make Pull Requests. Aye, here at last
-you need to know some Git and Github processes.
+you need to know some Git and GitLab processes.

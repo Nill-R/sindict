@@ -11,7 +11,7 @@
 <xsl:template match="teiHeader">
 <xsl:if test="$header = 'yes'">
 <div>
-<!--  <span id="forkongithub"><a href="https://github.com/Omikhleia/sindict" target="_blank">Fork me on GitHub</a><br/></span> -->
+<!--  <span id="forkongithub"><a href="https://gitlab.com/nill.ringil/sindict" target="_blank">Fork me on GitLab</a><br/></span> -->
   <input type="checkbox" id="switch" />
   <label for="switch"></label>
   <span class="show-hide"><b><i><xsl:value-of select="//titleStmt/title[@lang = $language]"/></i></b> -
