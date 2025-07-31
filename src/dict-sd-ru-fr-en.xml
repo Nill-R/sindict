@@ -2832,13 +2832,16 @@
     <trans lang="en">
       <def><index level1="to" lang="en"/>to, <index level1="towards" lang="en"/>towards, <index level1="for" lang="en"/>for</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="к"/>к, <index lang="ru" level1="в направлении"/>в направлении, <index lang="ru" level1="для"/>для</def>
+    </trans>
   </sense>
   <note type="source"><bibl>LotR/II:IV, UT/39, SD/129-31</bibl></note>
   <note type="comment" lang="fr">
-    Avec article suffixé et élision dans <hi>aglar’ni Pheriannath</hi>
+    Avec article suffixé et élision dans <hi>aglar'ni Pheriannath</hi>
   </note>
   <note type="comment" lang="en">
-    With suffixed article and elision in <hi>aglar’ni Pheriannath</hi>
+    With suffixed article and elision in <hi>aglar'ni Pheriannath</hi>
   </note>
 </entry>
 
@@ -2860,6 +2863,9 @@
     <trans lang="en">
       <def><bibl>Ety/374</bibl> <index level1="with" lang="en"/>with, <index level1="by" lang="en"/>by</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="с"/>с, <index lang="ru" level1="посредством"/>посредством</def>
+    </trans>
   </sense>
 </entry>
 
@@ -2880,6 +2886,9 @@
     <trans lang="en">
       <def><index level1="long" lang="en"/>long, for a long <index level1="time" lang="en"/>time</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="долго"/>долго, <index lang="ru" level1="длительное время"/>длительное время</def>
+    </trans>
   </sense>
   <note type="source"><bibl>LotR/VI:IV, Letters/308</bibl></note>
   <etym>an+and, OS *ananda</etym>
@@ -2889,7 +2898,7 @@
   <form type="regular">
     <form>
       <orth>anc</orth><usg type="lang" norm="N."/>
-      <bibl>Ety/348, Ety/374</bibl>
+      <bibl>Ety/374, Ety/374</bibl>
       <pron>"ANk</pron>
     </form>
   </form>
@@ -2904,6 +2913,9 @@
     <trans lang="en">
       <def><bibl>Ety/348</bibl> <index level1="jaw" lang="en"/>jaw,
            <bibl>Ety/374</bibl> row of <index level1="tooth" lang="en"/>teeth</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="челюсть"/>челюсть, ряд <index lang="ru" level1="зуб"/>зубов</def>
     </trans>
   </sense>
   <note type="source"><bibl>Ety/348, Ety/374</bibl></note>
@@ -2929,6 +2941,9 @@
     <trans lang="en">
       <def><index level1="long" lang="en"/>long</def>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="длинный"/>длинный</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/348, S/427</bibl></note>
 </entry>
@@ -2951,10 +2966,13 @@
     </gramGrp>
     <usg type="dom">Ling.</usg>
     <trans lang="fr">
-      <def><index lang="fr" level1="marque"/>marque longue, <index lang="fr" level1="signe"/>signe utilisé au-dessus d’une voyelle, dans l’écriture en tengwar alphabétiques, pour indiquer sa longueur</def>
+      <def><index lang="fr" level1="marque"/>marque longue, <index lang="fr" level1="signe"/>signe utilisé au-dessus d'une voyelle, dans l'écriture en tengwar alphabétiques, pour indiquer sa longueur</def>
     </trans>
     <trans lang="en">
       <def><bibl>LotR/E, Ety/391, PE/17:123, PE/22:31</bibl> long-<index level1="mark" lang="en"/>mark, <index level1="sign" lang="en"/>sign used in writing alphabetic tengwar over a vowel, to indicate that it is lengthened.</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="долгота"/>знак долготы, <index lang="ru" level1="знак"/>знак, используемый при письме алфавитными тенгвар над гласной для обозначения её долготы</def>
     </trans>
   </sense>
   <etym>and+taith</etym>
@@ -2986,21 +3004,30 @@
     <trans lang="en">
       <def><bibl>Ety/382</bibl> <index level1="cycle" lang="en"/>cycle, <index level1="age" lang="en"/>age</def> <usg type="hint">100 Valian Years</usg>
     </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="цикл"/>цикл, <index lang="ru" level1="эпоха"/>эпоха</def> <usg type="hint">100 Валианских лет</usg>
+    </trans>
   </sense>
   <note type="comment" lang="fr">
-    Helge Fauskanger note que l’élément <hi>and</hi> « long » devrait normalement être
-    préservé devant <hi>r-</hi>, mais son <hi>-d</hi> est tombé parce qu’il y a un
+    Helge Fauskanger note que l'élément <hi>and</hi> « long » devrait normalement être
+    préservé devant <hi>r-</hi>, mais son <hi>-d</hi> est tombé parce qu'il y a un
     autre <hi>d</hi> dans le mot (<bibl>VT/41:9</bibl>); cependant, ce second <hi>d</hi> disparut plus tard
     dans le changement de <hi>-nd</hi> en <hi>-nn</hi> en finale des mots, et il est difficile
     de dire si <hi>an-</hi> devrait ou non être rétabli en <hi>and-</hi>
   </note>
   <note type="comment" lang="en">
-    Helge Fauskanger noted that the element <hi>and</hi> “long” would normally be preserved before <hi>r-</hi>,
+    Helge Fauskanger noted that the element <hi>and</hi> "long" would normally be preserved before <hi>r-</hi>,
     but the <hi>-d</hi> is lost because there is another <hi>d</hi> in the word (<bibl>VT/41:9</bibl>); however,
     this second <hi>d</hi> later disappeared in the change from <hi>-nd</hi> to <hi>-nn</hi>,
     and it is unclear whether or not <hi>an-</hi> would then revert to <hi>and-</hi>
   </note>
-  <etym>and+*rand “long cycle”</etym>
+    <note type="comment" lang="ru">
+    Хельге Фаускангер отмечает, что элемент <hi>and</hi> «длинный» должен был бы обычно сохраняться перед <hi>r-</hi>,
+    но <hi>-d</hi> выпадает из-за наличия другого <hi>d</hi> в слове (<bibl>VT/41:9</bibl>); однако
+    это второе <hi>d</hi> позднее исчезло при изменении <hi>-nd</hi> в <hi>-nn</hi> 
+    в конце слов, и неясно, следует ли <hi>an-</hi> восстанавливать в <hi>and-</hi>
+  </note>
+  <etym>and+*rand "long cycle"</etym>
 </entry>
 
 <entry id="andreth">
@@ -3020,6 +3047,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>PE/17:182</bibl> <index level1="patience" lang="en"/>patience, long-suffering</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="терпение" lang="ru"/>терпение, долготерпение</def>
     </trans>
   </sense>
 </entry>
@@ -3048,6 +3078,9 @@
     </trans>
     <trans lang="en">
       <def>one of the Longbeards</def> <usg type="hint">a tribe of <index level1="dwarf" lang="en"/>Dwarves</usg>
+    </trans>
+    <trans lang="ru">
+      <def>один из Длиннобородых</def> <usg type="hint">племя <index lang="ru" level1="гном"/>гномов</usg>
     </trans>
   </sense>
   <note type="source"><bibl>Ety/348, Ety/387, WJ/322</bibl></note>
@@ -3082,6 +3115,9 @@
     <trans lang="en">
       <def><bibl>WJ/322</bibl> the Longbeards</def> <usg type="hint">a tribe of <index level1="dwarf" lang="en"/>Dwarves</usg>
     </trans>
+    <trans lang="ru">
+      <def>Длиннобородые</def> <usg type="hint">племя <index lang="ru" level1="гном"/>гномов</usg>
+    </trans>
   </sense>
   <etym>anfang+rim</etym>
 </entry>
@@ -3103,6 +3139,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="iron" lang="en"/>iron</def>
+    </trans>
+    <trans lang="ru">
+      <def><index lang="ru" level1="железо"/>железо</def>
     </trans>
   </sense>
   <note type="source"><bibl>Ety/348, S/428, PM/347</bibl></note>
