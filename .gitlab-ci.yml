@@ -101,7 +101,7 @@ deploy_cloudflare:
           - npm install -g wrangler
      script:
           - echo "Деплой на CloudFlare Pages будет настроен позже"
-          - wrangler pages deploy docs --project-name=sindict
+          - npx wrangler pages deploy docs --project-name=sindict
      only:
           changes:
                - src/**/*
