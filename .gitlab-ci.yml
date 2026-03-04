@@ -5,93 +5,93 @@
 # Раскомментировать когда понадобится автоматическая сборка и деплой
 
 stages:
-   - build
-   - test
+     - build
+     - test
 
-# variables:
+variables:
 #   # Версия Node.js для использования
-  NODE_VERSION: "18"
+   NODE_VERSION: "18"
 
 # # Кэширование зависимостей Node.js (если появятся)
- cache:
-   paths:
-     - node_modules/
-     - .npm/
+cache:
+     paths:
+          - node_modules/
+          - .npm/
 
 # # Сборка HTML из XML исходников
 build:
-   stage: build
-   image: ubuntu:22.04
-#
-   before_script:
-#     # Установка необходимых пакетов
-     - apt-get update -qq
-     - apt-get install -y -qq xsltproc nodejs npm
-#
-#     # Проверка версий установленных инструментов
-     - xsltproc --version
-     - node --version
-     - npm --version
-#
-#     # Создание директории для артефактов если не существует
-     - mkdir -p docs
-#
-   script:
-#     # Запуск процесса сборки
-     - chmod +x process.sh
-     - ./process.sh
-#
-#     # Проверка что файл был создан
-     - ls -la docs/
-     - test -f docs/dict-sd.html
-#
-   artifacts:
-#     # Сохранение собранных файлов
-     paths:
-       - docs/
-     expire_in: 1 day
-#
-#   # Запуск только при изменениях в исходниках или скриптах
-   only:
-     changes:
-       - src/**/*
-       - scripts/**/*
-       - process.sh
-       - .gitlab-ci.yml
+     stage: build
+     image: ubuntu:22.04
+     #
+     before_script:
+          #     # Установка необходимых пакетов
+          - apt-get update -qq
+          - apt-get install -y -qq xsltproc nodejs npm
+          #
+          #     # Проверка версий установленных инструментов
+          - xsltproc --version
+          - node --version
+          - npm --version
+          #
+          #     # Создание директории для артефактов если не существует
+          - mkdir -p docs
+     #
+     script:
+          #     # Запуск процесса сборки
+          - chmod +x process.sh
+          - ./process.sh
+          #
+          #     # Проверка что файл был создан
+          - ls -la docs/
+          - test -f docs/dict-sd.html
+     #
+     artifacts:
+          #     # Сохранение собранных файлов
+          paths:
+               - docs/
+          expire_in: 1 day
+     #
+     #   # Запуск только при изменениях в исходниках или скриптах
+     only:
+          changes:
+               - src/**/*
+               - scripts/**/*
+               - process.sh
+               - .gitlab-ci.yml
 
 # # Базовые тесты собранного HTML
 test_html:
-   stage: test
-   image: ubuntu:22.04
-   dependencies:
-     - build
-#
-   before_script:
-     - apt-get update -qq
-     - apt-get install -y -qq file
-#
-   script:
-#     # Проверка что HTML файл существует и не пустой
-     - test -s docs/dict-sd.html
-#
-#     # Проверка что это действительно HTML файл
-     - file docs/dict-sd.html | grep -i html
-#
-#     # Базовая проверка структуры HTML
-     - grep -q "<html" docs/dict-sd.html
-     - grep -q "</html>" docs/dict-sd.html
-     - grep -q "<head" docs/dict-sd.html
-     - grep -q "<body" docs/dict-sd.html
-#
-#     # Вывод размера файла для информации
-     - ls -lh docs/dict-sd.html
-#
-   only:
-     changes:
-       - src/**/*
-       - scripts/**/*
-       - process.sh
-       - .gitlab-ci.yml
+     stage: test
+     image: ubuntu:22.04
+     dependencies:
+          - build
+     #
+     before_script:
+          - apt-get update -qq
+          - apt-get install -y -qq file
+     #
+     script:
+          #     # Проверка что HTML файл существует и не пустой
+          - test -s docs/dict-sd.html
+          #
+          #     # Проверка что это действительно HTML файл
+          - file docs/dict-sd.html | grep -i html
+          #
+          #     # Базовая проверка структуры HTML
+          - grep -q "<html" docs/dict-sd.html
+          - grep -q "</html>" docs/dict-sd.html
+          - grep -q "<head" docs/dict-sd.html
+          - grep -q "<body" docs/dict-sd.html
+          #
+          #     # Вывод размера файла для информации
+          - ls -lh docs/dict-sd.html
+     #
+     only:
+          changes:
+               - src/**/*
+               - scripts/**/*
+               - process.sh
+               - .gitlab-ci.yml
 
 # # Заготовка для будущего деплоя на CloudFlare Pages
 # # deploy_cloudflare:
