@@ -70,16 +70,16 @@ test_html:
      #
      script:
           #     # Проверка что HTML файл существует и не пустой
-          - test -s docs/dict-sd.html
+          - test -s docs/index.html
           #
           #     # Проверка что это действительно HTML файл
-          - file docs/dict-sd.html | grep -i html
+          - file docs/index.html | grep -i html
           #
           #     # Базовая проверка структуры HTML
-          - grep -q "<html" docs/dict-sd.html
-          - grep -q "</html>" docs/dict-sd.html
-          - grep -q "<head" docs/dict-sd.html
-          - grep -q "<body" docs/dict-sd.html
+          - grep -q "<html" docs/index.html
+          - grep -q "</html>" docs/index.html
+          - grep -q "<head" docs/index.html
+          - grep -q "<body" docs/index.html
           #
           #     # Вывод размера файла для информации
           - ls -lh docs/index.html
