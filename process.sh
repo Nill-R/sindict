@@ -7,4 +7,4 @@ xsltproc --novalid scripts/process/expand-xref-pass1.xsl src/dict-sd-ru-fr-en.xm
   | xsltproc --novalid scripts/process/add-sections.xsl - \
   | xsltproc --novalid scripts/tei2html/tei-lite.xsl - \
   | node scripts/tei2html/post-process.js \
-  > docs/dict-sd.html
+  > docs/index.html
