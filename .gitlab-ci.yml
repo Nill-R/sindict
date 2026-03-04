@@ -82,7 +82,7 @@ test_html:
           - grep -q "<body" docs/dict-sd.html
           #
           #     # Вывод размера файла для информации
-          - ls -lh docs/dict-sd.html
+          - ls -lh docs/index.html
      #
      only:
           changes:
