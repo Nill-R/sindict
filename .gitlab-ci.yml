@@ -8,7 +8,7 @@ stages:
 
 variables:
      #   # Версия Node.js для использования
-     NODE_VERSION: "18"
+     NODE_VERSION: "22"
 
 # # Кэширование зависимостей Node.js (если появятся)
 cache:
@@ -94,13 +94,12 @@ test_html:
 # # Заготовка для будущего деплоя на CloudFlare Pages
 deploy_cloudflare:
      stage: deploy
-     image: node:18-alpine
+     image: node:22-alpine
      dependencies:
           - build
      before_script:
           - npm install -g wrangler
      script:
-          - echo "Деплой на CloudFlare Pages будет настроен позже"
           - npx wrangler pages deploy docs --project-name=sindict
      only:
           changes:
