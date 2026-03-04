@@ -41,7 +41,7 @@ build:
           #
           #     # Проверка что файл был создан
           - ls -la docs/
-          - test -f docs/dict-sd.html
+          - test -f docs/index.html
      #
      artifacts:
           #     # Сохранение собранных файлов
