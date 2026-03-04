@@ -1,109 +1,70 @@
-# GitLab CI/CD конфигурация для сборки словаря
-# Использует xsltproc и Node.js для преобразования XML в HTML
-
 stages:
-     - build
-     - test
-     - deploy
+  - build
+  - test
+  - deploy
 
-variables:
-     #   # Версия Node.js для использования
-     NODE_VERSION: "22"
-
-# # Кэширование зависимостей Node.js (если появятся)
 cache:
-     paths:
-          - node_modules/
-          - .npm/
+  paths:
+    - node_modules/
+    - .npm/
 
-# # Сборка HTML из XML исходников
 build:
-     stage: build
-     image: ubuntu:22.04
-     #
-     before_script:
-          #     # Установка необходимых пакетов
-          - apt-get update -qq
-          - apt-get install -y -qq xsltproc nodejs npm
-          #
-          #     # Проверка версий установленных инструментов
-          - xsltproc --version
-          - node --version
-          - npm --version
-          #
-          #     # Создание директории для артефактов если не существует
-          - mkdir -p docs
-     #
-     script:
-          #     # Запуск процесса сборки
-          - chmod +x process.sh
-          - ./process.sh
-          #
-          #     # Проверка что файл был создан
-          - ls -la docs/
-          - test -f docs/index.html
-     #
-     artifacts:
-          #     # Сохранение собранных файлов
-          paths:
-               - docs/
-          expire_in: 1 day
-     #
-     #   # Запуск только при изменениях в исходниках или скриптах
-     only:
-          changes:
-               - src/**/*
-               - scripts/**/*
-               - process.sh
-               - .gitlab-ci.yml
+  stage: build
+  image: node:22-alpine
+  before_script:
+    - apk add --no-cache libxslt
+    - xsltproc --version
+    - node --version
+    - npm --version
+    - mkdir -p docs
+  script:
+    - chmod +x process.sh
+    - ./process.sh
+    - ls -la docs/
+    - test -f docs/index.html
+  artifacts:
+    paths:
+      - docs/
+    expire_in: 1 day
+  only:
+    changes:
+      - src/**/*
+      - scripts/**/*
+      - process.sh
+      - .gitlab-ci.yml
 
-# # Базовые тесты собранного HTML
 test_html:
-     stage: test
-     image: ubuntu:22.04
-     dependencies:
-          - build
-     #
-     before_script:
-          - apt-get update -qq
-          - apt-get install -y -qq file
-     #
-     script:
-          #     # Проверка что HTML файл существует и не пустой
-          - test -s docs/index.html
-          #
-          #     # Проверка что это действительно HTML файл
-          - file docs/index.html | grep -i html
-          #
-          #     # Базовая проверка структуры HTML
-          - grep -q "<html" docs/index.html
-          - grep -q "</html>" docs/index.html
-          - grep -q "<head" docs/index.html
-          - grep -q "<body" docs/index.html
-          #
-          #     # Вывод размера файла для информации
-          - ls -lh docs/index.html
-     #
-     only:
-          changes:
-               - src/**/*
-               - scripts/**/*
-               - process.sh
-               - .gitlab-ci.yml
+  stage: test
+  image: alpine:3.20
+  dependencies:
+    - build
+  before_script:
+    - apk add --no-cache file
+  script:
+    - test -s docs/index.html
+    - file docs/index.html | grep -i html
+    - grep -q "<html" docs/index.html
+    - grep -q "</html>" docs/index.html
+    - grep -q "<head" docs/index.html
+    - grep -q "<body" docs/index.html
+    - ls -lh docs/index.html
+  only:
+    changes:
+      - src/**/*
+      - scripts/**/*
+      - process.sh
+      - .gitlab-ci.yml
 
-# # Заготовка для будущего деплоя на CloudFlare Pages
 deploy_cloudflare:
-     stage: deploy
-     image: node:22-alpine
-     dependencies:
-          - build
-     before_script:
-          - npm install -g wrangler
-     script:
-          - npx wrangler pages deploy docs --project-name=sindict
-     only:
-          changes:
-               - src/**/*
-               - scripts/**/*
-               - process.sh
-               - .gitlab-ci.yml
+  stage: deploy
+  image: node:22-alpine
+  dependencies:
+    - build
+  script:
+    - npx wrangler@latest pages deploy docs --project-name=sindict
+  only:
+    changes:
+      - src/**/*
+      - scripts/**/*
+      - process.sh
+      - .gitlab-ci.yml

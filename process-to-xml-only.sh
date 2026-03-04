@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env sh
 
 xsltproc --novalid scripts/process/expand-xref-pass1.xsl src/dict-sd-ru-fr-en.xml \
   | xsltproc --novalid scripts/process/expand-xref-pass2.xsl - \
