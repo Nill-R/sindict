@@ -4,10 +4,11 @@
 stages:
      - build
      - test
+     - deploy
 
 variables:
-#   # Версия Node.js для использования
-   NODE_VERSION: "18"
+     #   # Версия Node.js для использования
+     NODE_VERSION: "18"
 
 # # Кэширование зависимостей Node.js (если появятся)
 cache:
@@ -91,16 +92,19 @@ test_html:
                - .gitlab-ci.yml
 
 # # Заготовка для будущего деплоя на CloudFlare Pages
-# # deploy_cloudflare:
-# #   stage: deploy
-# #   image: node:18-alpine
-# #   dependencies:
-# #     - build
-# #   before_script:
-# #     - npm install -g wrangler
-# #   script:
-# #     - echo "Деплой на CloudFlare Pages будет настроен позже"
-# #     # - wrangler pages deploy docs --project-name=sindict
-# #   only:
-# #     - main
-# #   when: manual
+deploy_cloudflare:
+     stage: deploy
+     image: node:18-alpine
+     dependencies:
+          - build
+     before_script:
+          - npm install -g wrangler
+     script:
+          - echo "Деплой на CloudFlare Pages будет настроен позже"
+          - wrangler pages deploy docs --project-name=sindict
+     only:
+          changes:
+               - src/**/*
+               - scripts/**/*
+               - process.sh
+               - .gitlab-ci.yml
