@@ -15,9 +15,9 @@
       <title lang="fr">Un dictionnaire sindarin et noldorin</title>
       <title lang="ru">Словарь Синдарина и Нолдорина</title>
       <respStmt>
-        <resp lang="en">Compiled, edited and annotated by The Sindarin Dictionary Project</resp>
-        <resp lang="fr">Compilé, édité, annoté et traduit par The Sindarin Dictionary Project</resp>
-        <resp lang="ru">Версия на русском языке создана, отредактирована и аннотирована Ниллом Рингилом</resp>
+        <resp lang="en">Compiled, edited and annotated by The Sindarin Dictionary Project and Nill Ringil</resp>
+        <resp lang="fr">Compilé, édité, annoté et traduit par The Sindarin Dictionary Project & Nill Ringil</resp>
+        <resp lang="ru">Cоздан, отредактирован и аннотирован The Sindarin Dictionary Project и Ниллом Рингилом</resp>
       </respStmt>
     </titleStmt>
 
@@ -26,7 +26,7 @@
     </editionStmt>
 
     <publicationStmt>
-      <publisher>Nill Ringil</publisher>
+      <publisher>The Sindarin Dictionary Project and Nill Ringil</publisher>
       <availability lang="en" status="free">
         <p><hi>License</hi>. This material may be distributed only subject to the terms and
            conditions set forth in the Creative Commons Attribution, Non-Commercial, Share-Alike License,
@@ -192,7 +192,7 @@
           <name>Anna Blanter</name>,
           <name>Mihail Blanter</name>
           <name>Nill Ringil</name>,
-          he Sindarin Dictionary Project,
+          The Sindarin Dictionary Project,
           the members of the ELFLING mailing-list,
           the members of the Sindarin dictionary discussion group,
           the girl who did not want her name to be mentioned,
@@ -279,7 +279,7 @@
           jusqu’à ce que les idéaux des éditeurs soient satisfaits — une condition qui pourrait ne
           jamais être atteinte.</p>
       </note>
-          <note lang="ru">
+  <note lang="ru">
   <p>Оригинальный проект словаря синдарина, известный как <hi>Hiswelokë’s Sindarin Dictionary</hi>,
     начался 23 октября 1999 года и так и не был полностью завершён.
     После 2008 года работа над проектом была приостановлена. Позднее она была возобновлена,
