@@ -16583,6 +16583,9 @@
     <trans lang="en">
       <def><index level1="he" lang="en"/>he</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="он" lang="ru"/>он</def>
+    </trans>
   </sense>
   <note type="source"><bibl>SD/129-31</bibl></note>
   <note type="comment" lang="fr">
@@ -16597,6 +16600,12 @@
     of this word in the so-called “King’s Letter”, but it also seems possible to
     interpret it as “indeed” (as in Q. <hi>e</hi>, <bibl>LR/63, VT/45:11</bibl>), used here in
     a way of formal address expressing the wishes or the will of the King
+  </note>
+  <note type="comment" lang="ru">
+    Значение «он» выводится из предполагаемой функции этого слова в так называемом
+    «Письме короля». Однако возможно и другое толкование — «воистину», «поистине»
+    (ср. квэнья <hi>e</hi>, <bibl>LR/63, VT/45:11</bibl>), употребляемое здесь как
+    формальный оборот для выражения воли или пожеланий короля.
   </note>
 </entry>
 
@@ -16617,8 +16626,15 @@
     <trans lang="en">
       <def>(?) <index level1="before" lang="en"/>before</def>
     </trans>
+    <trans lang="ru">
+      <def>(?) <index level1="перед" lang="ru"/>перед, до</def>
+    </trans>
   </sense>
   <note type="source,deduced"><mentioned>Eblaer</mentioned> “June, (?) Before-summer” <bibl>PM/136</bibl></note>
+  <note type="comment" lang="ru">
+    Префикс реконструируется по слову <hi>Eblaer</hi> «июнь», буквально, возможно,
+    «перед-летом».
+  </note>
 </entry>
 
 <entry id="eblaer">
@@ -16645,8 +16661,14 @@
     <trans lang="en">
       <def><index level1="June" lang="en"/>June</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="июнь" lang="ru"/>июнь</def>
+    </trans>
   </sense>
   <etym><ptr target="eb-"/> + <ptr target="laer.1"/></etym>
+  <note type="comment" lang="ru">
+    Этимология: <ptr target="eb-"/> «перед» + <ptr target="laer.1"/> «лето».
+  </note>
   <xr type="analogy"><ptr target="nórui"/></xr>
 </entry>
 
@@ -16667,6 +16689,9 @@
     <trans lang="en">
       <def><index level1="spine" lang="en"/>spine</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="шип" lang="ru"/>шип, острие</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/355, VT/45:12</bibl></note>
   <note type="comment" lang="fr">Les <hi>Etymologies</hi>, dans leur version
@@ -16676,6 +16701,10 @@
   <note type="comment" lang="en">
     The <hi>Etymologies</hi> as published gloss this
     word as “spear”, but the correct reading is provided in <bibl>VT/45</bibl>
+  </note>
+  <note type="comment" lang="ru">
+    В опубликованных <hi>Etymologies</hi> это слово переводилось как «копьё»,
+    однако более точное чтение этой записи было позже уточнено в <bibl>VT/45</bibl>.
   </note>
   <xr type="analogy"><ptr target="egnas"/></xr>
 </entry>
@@ -16697,6 +16726,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>UT/431</bibl> <index level1="camp" lang="en"/>camp</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>UT/431</bibl> <index level1="лагерь" lang="ru"/>лагерь</def>
     </trans>
   </sense>
 </entry>
@@ -16733,6 +16765,9 @@
       <def>to <index level1="fashion" lang="en"/>fashion, <index level1="make" lang="en"/>make,
 	  <index level1="shape" lang="en"/>shape out</def>
     </trans>
+    <trans lang="ru">
+      <def>изготавливать, создавать, формировать</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/363, LotR/II:IV, PE/17:42</bibl></note>
 </entry>
@@ -16754,6 +16789,9 @@
     <trans lang="en">
       <def><index level1="follower" lang="en"/>follower</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="последователь" lang="ru"/>последователь</def>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -16766,6 +16804,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="human" lang="en"/>human being</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="человек" lang="ru"/>человек</def>
     </trans>
   </sense>
   <note type="source"><bibl>WJ/219</bibl></note>
@@ -16787,6 +16828,9 @@
     </trans>
     <trans lang="en">
       <def>outer <index level1="circle" lang="en"/>circle, <index level1="encircling" lang="en"/>encircling, outer ring</def>
+    </trans>
+    <trans lang="ru">
+      <def>внешний круг, ограждение, внешний кольцевой вал</def>
     </trans>
   </sense>
   <note type="source"><bibl>LotR/V:I, LotR/Index, S/430</bibl></note>
@@ -16812,6 +16856,9 @@
     <trans lang="en">
       <def><index level1="awakening" lang="en"/>awakening</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="пробуждение" lang="ru"/>пробуждение</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/366, S/429</bibl></note>
 </entry>
@@ -16834,9 +16881,15 @@
     <trans lang="en">
       <def>a <index level1="season" lang="en"/>season, the beginning of <index level1="spring" lang="en"/>spring</def>
     </trans>
+    <trans lang="ru">
+      <def>сезон; начало весны</def>
+    </trans>
   </sense>
   <note type="source"><bibl>LotR/D, SD/129-31</bibl></note>
   <etym>Etym. “stirring”</etym>
+  <note type="comment" lang="ru">
+    Этимология: «движение, пробуждение».
+  </note>
 </entry>
 
 <entry id="ecthel">
@@ -16862,8 +16915,13 @@
       <def><bibl>Ety/388</bibl> <index level1="point" lang="en"/>point</def>
            <usg type="hint">of <index level1="spear" lang="en"/>spear</usg>
     </trans>
+    <trans lang="ru">
+      <def><index level1="острие" lang="ru"/>острие</def>
+      <usg type="hint">копья</usg>
+    </trans>
   </sense>
   <etym>êg+thela “thorn-point”</etym>
+  <note type="comment" lang="ru">Этимология: êg «шип» + thela «острие» — буквально «шип-острие».</note>
 </entry>
 
 <entry type="affix" id="ed-">
@@ -16885,6 +16943,10 @@
     <trans lang="en">
       <def><bibl>Ety/356</bibl> <index level1="forth" lang="en"/>forth,
            <index level1="out" lang="en"/>out</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="вперёд" lang="ru"/>вперёд,
+           <index level1="наружу" lang="ru"/>наружу</def>
     </trans>
   </sense>
 </entry>
@@ -16908,6 +16970,9 @@
       <def><index level1="it" lang="en"/>it,
            <index level1="that" lang="en"/>that</def>
     </trans>
+    <trans lang="ru">
+      <def>(?) <index level1="тот" lang="ru"/>тот, это</def>
+    </trans>
   </sense>
 </entry>
 
@@ -16929,6 +16994,9 @@
     <trans lang="en">
       <def><bibl>VT/42:26-27</bibl> <index level1="double" lang="en"/>double</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="двойной" lang="ru"/>двойной</def>
+    </trans>
   </sense>
 </entry>
 
@@ -16949,6 +17017,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/349</bibl> <index level1="new" lang="en"/>new, begun again</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="новый" lang="ru"/>новый, начатый заново</def>
     </trans>
   </sense>
 </entry>
@@ -16978,6 +17049,9 @@
     <trans lang="en">
       <def><index level1="elf" lang="en"/>Elf</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="эльф" lang="ru"/>эльф</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/356, S/430, WJ/363-364</bibl></note>
 </entry>
@@ -17000,10 +17074,15 @@
     <trans lang="en">
       <def><index level1="elf" lang="en"/>elf-<index level1="stone" lang="en"/>stone</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="эльфийский" lang="ru"/>эльфийский <index level1="камень" lang="ru"/>камень</def>
+    </trans>
   </sense>
   <note type="source"><bibl>SD/128-129</bibl></note>
   <etym>edhel+sarn</etym>
+  <note type="comment" lang="ru">Этимология: edhel «эльф» + sarn «камень».</note>
 </entry>
+
 <entry id="edhellen">
   <form type="regular">
   <form>
@@ -17022,9 +17101,13 @@
     <trans lang="en">
       <def><index level1="elvish" lang="en"/>elvish, of the Elves</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="эльфийский" lang="ru"/>эльфийский, принадлежащий эльфам</def>
+    </trans>
   </sense>
   <note type="source"><bibl>LotR/II:IV, RS/463, PE/17:45</bibl></note>
   <etym>edhel+-ren</etym>
+  <note type="comment" lang="ru">Производное от edhel «эльф» с суффиксом -ren.</note>
 </entry>
 
 <entry id="edinor">
@@ -17050,11 +17133,15 @@
     <trans lang="en">
       <def><bibl>Ety/400</bibl> <index level1="anniversary" lang="en"/>anniversary day</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="годовщина" lang="ru"/>годовщина, день годовщины</def>
+    </trans>
   </sense>
   <etym>ad+în+aur</etym>
+  <note type="comment" lang="ru">Буквально: «повторный день».</note>
 </entry>
 
- <entry id="edledhia-">
+<entry id="edledhia-">
   <form type="regular">
     <form type="normalized">
       <orth>edledhia-</orth><usg type="lang" norm="*S."/>
@@ -17114,6 +17201,9 @@
     <trans lang="en">
       <def><bibl>Ety/368</bibl> to go into <index level1="exile" lang="en"/>exile</def>
     </trans>
+    <trans lang="ru">
+      <def>отправляться в <index level1="изгнание" lang="ru"/>изгнание</def>
+    </trans>
   </sense>
 </entry>
 
@@ -17138,6 +17228,10 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/368</bibl> <index level1="exile" lang="en"/>exile</def> <usg type="hint">person who is exiled</usg>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="изгнанник" lang="ru"/>изгнанник</def>
+      <usg type="hint">находящийся в изгнании</usg>
     </trans>
   </sense>
 </entry>
@@ -17164,6 +17258,9 @@
     <trans lang="en">
       <def><index level1="exiled" lang="en"/>exiled</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="изгнанный" lang="ru"/>изгнанный, находящийся в изгнании</def>
+    </trans>
   </sense>
 </entry>
 
@@ -17184,6 +17281,9 @@
     <trans lang="en">
       <def>to <index level1="blossom" lang="en"/>blossom, <index level1="flower" lang="en"/>flower</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="расцветать" lang="ru"/>расцветать, <index level1="цвести" lang="ru"/>цвести</def>
+    </trans>
   </sense>
   <note type="source,deduced"><mentioned>edlothiand</mentioned> <bibl>WR/293</bibl></note>
   <re corresp="edlothiad">
@@ -17200,6 +17300,9 @@
   </note>
   <note type="comment" lang="en">
     The sentence from <bibl>WR/293</bibl> is hardly legible and is not translated, but this word is however a plausible form
+  </note>
+  <note type="comment" lang="ru">
+    Фраза в <bibl>WR/293</bibl> плохо читается и не переведена, однако эта форма всё же выглядит правдоподобной
   </note>
 </entry>
 
@@ -17221,6 +17324,9 @@
     <trans lang="en">
       <def><index level1="blossoming" lang="en"/>blossoming, <index level1="flowering" lang="en"/>flowering</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="расцвет" lang="ru"/>расцвет, <index level1="цветение" lang="ru"/>цветение</def>
+    </trans>
   </sense>
   <note type="source,deduced"><mentioned>edlothiand</mentioned> <bibl>WR/293</bibl></note>
   <note type="comment" lang="fr">
@@ -17231,6 +17337,10 @@
   <note type="comment" lang="en">
     Actually, <hi>edlothiand</hi> might be a misreading, according to David Salo who checked
     the original manuscript at Marquette and reported that his reading was unmistakably <hi>edlothiad</hi>
+  </note>
+  <note type="comment" lang="ru">
+    На деле <hi>edlothiand</hi> может быть ошибкой чтения: по словам Дэвида Сало, который сверял
+    оригинальный манускрипт в Marquette, там несомненно читается <hi>edlothiad</hi>
   </note>
 </entry>
 
@@ -17251,6 +17361,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/379</bibl> to <index level1="beget" lang="en"/>beget</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="порождать" lang="ru"/>порождать, <index level1="производить" lang="ru"/>производить (потомство)</def>
     </trans>
   </sense>
   <etym>ed+*onna-</etym>
@@ -17273,6 +17386,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>PE/17:45</bibl> to <index level1="open" lang="en"/>open</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="открывать" lang="ru"/>открывать(ся)</def>
     </trans>
   </sense>
   <re corresp="edro">
@@ -17307,6 +17423,9 @@
     <trans lang="en">
       <def><bibl>Ety/383</bibl> <index level1="border" lang="en"/>border</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="граница" lang="ru"/>граница, край</def>
+    </trans>
   </sense>
   <etym>ed+rain</etym>
 </entry>
@@ -17328,27 +17447,33 @@
     <trans lang="en">
       <def><index level1="rescue" lang="en"/>rescue, <index level1="saving" lang="en"/>saving</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="спасение" lang="ru"/>спасение, избавление</def>
+    </trans>
   </sense>
   <note type="source"><bibl>LotR/II:IV, TI/175, PE/17:38</bibl></note>
 </entry>
 
 <entry id="edregol">
   <form type="regular">
-  <form>
-    <orth>edregol</orth><usg type="lang" norm="S."/>
-    <pron>"EdrEgl=</pron>
-  </form>
+    <form>
+      <orth>edregol</orth><usg type="lang" norm="S."/>
+      <pron>"EdrEgl=</pron>
+    </form>
   </form>
 
   <sense>
-  <gramGrp>
-    <pos>adv.</pos>
-  </gramGrp>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
     <trans lang="fr">
       <def>en <index lang="fr" level1="particulier"/>particulier</def>
     </trans>
     <trans lang="en">
       <def>in <index level1="especial" lang="en"/>especial</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="особенно" lang="ru"/>особенно, в частности</def>
     </trans>
   </sense>
   <note type="source"><bibl>SD/129-31</bibl></note>
@@ -17372,6 +17497,9 @@
     <trans lang="en">
       <def><index level1="open" lang="en"/>open!</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="открой" lang="ru"/>открой!</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/357, LotR/II:IV, PE/17:45</bibl></note>
 </entry>
@@ -17394,6 +17522,9 @@
     <trans lang="en">
       <def><bibl>SD/129-31</bibl> <index level1="second" lang="en"/>second</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="второй" lang="ru"/>второй</def>
+    </trans>
   </sense>
 </entry>
 
@@ -17415,6 +17546,9 @@
     <trans lang="en">
       <def><bibl>Ety/355</bibl> <index level1="thorn" lang="en"/>thorn</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="шип" lang="ru"/>шип, колючка</def>
+    </trans>
   </sense>
 </entry>
 
@@ -17429,13 +17563,16 @@
     <gramGrp>
       <pos>n.</pos> <number>class pl.</number>
     </gramGrp>
-        <xr type="of"><ptr target="eglan"/></xr>
+    <xr type="of"><ptr target="eglan"/></xr>
     <usg type="dom">Pop.</usg>
     <trans lang="fr">
       <def>« Les Abandonnés », <index lang="fr" level1="Elfe"/>Elfes des Falathrim</def>
     </trans>
     <trans lang="en">
       <def>“The Forsaken”, <index level1="elf" lang="en"/>Elves of the Falathrim</def>
+    </trans>
+    <trans lang="ru">
+      <def>«<index level1="покинутые" lang="ru"/>Покинутые», <index level1="эльф" lang="ru"/>эльфы Фалатрим</def>
     </trans>
   </sense>
   <note type="source"><bibl>WJ/189, WJ/365, WJ/379</bibl></note>
@@ -17466,6 +17603,9 @@
     <trans lang="en">
       <def><index level1="forsaken" lang="en"/>forsaken</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="покинутый" lang="ru"/>покинутый, оставленный</def>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -17477,6 +17617,9 @@
     </trans>
     <trans lang="en">
       <def>an <index level1="elf" lang="en"/>Elf of the Falathrim</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="эльф" lang="ru"/>эльф Фалатрим</def>
     </trans>
   </sense>
   <note type="source"><bibl>WJ/365, WJ/379-380</bibl></note>
@@ -17501,13 +17644,16 @@
     <gramGrp>
       <pos>n.</pos> <number>coll.</number>
     </gramGrp>
-       <xr type="of"><ptr target="egol"/></xr>
+    <xr type="of"><ptr target="egol"/></xr>
     <usg type="dom">Pop.</usg>
     <trans lang="fr">
       <def>« Les Abandonnés », <index lang="fr" level1="Elfe"/>Elfes des Falathrim</def>
     </trans>
     <trans lang="en">
       <def>“The Forsaken”, <index level1="elf" lang="en"/>Elves of the Falathrim</def>
+    </trans>
+    <trans lang="ru">
+      <def>«<index level1="покинутые" lang="ru"/>Покинутые», <index level1="эльф" lang="ru"/>эльфы Фалатрим</def>
     </trans>
   </sense>
   <note type="source"><bibl>WJ/189, WJ/344, PE/18:77</bibl></note>
@@ -17530,6 +17676,9 @@
     </trans>
     <trans lang="en">
       <def>to <index level1="glorify" lang="en"/>glorify, to <index level1="praise" lang="en"/>praise</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="прославлять" lang="ru"/>прославлять, <index level1="восхвалять" lang="ru"/>восхвалять</def>
     </trans>
   </sense>
   <re corresp="eglerio">
@@ -17560,6 +17709,9 @@
     <trans lang="en">
       <def><index level1="glorify" lang="en"/>glorify! <index level1="praise" lang="en"/>praise!</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="прославляй" lang="ru"/>прославляй! <index level1="восхваляй" lang="ru"/>восхваляй!</def>
+    </trans>
   </sense>
   <note type="source"><bibl>LotR/VI:IV, Letters/308</bibl></note>
 </entry>
@@ -17582,6 +17734,9 @@
     <trans lang="en">
       <def><bibl>VT/45:12</bibl> sharp <index level1="point" lang="en"/>point</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="острие" lang="ru"/>острие, острая точка</def>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -17593,6 +17748,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>VT/45:12</bibl> <index level1="peak" lang="en"/>peak</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="пик" lang="ru"/>пик, вершина</def>
     </trans>
   </sense>
 </entry>
@@ -17615,6 +17773,9 @@
     <trans lang="en">
       <def><bibl>WJ/365</bibl> be <index level1="off" lang="en"/>off!</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="проваливай" lang="ru"/>проваливай! <index level1="убирайся" lang="ru"/>убирайся!</def>
+    </trans>
   </sense>
 </entry>
 
@@ -17635,6 +17796,9 @@
     </trans>
     <trans lang="en">
       <def>someone <index level1="forsaken" lang="en"/>forsaken, an <index level1="elf" lang="en"/>Elf of the Falathrim</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="покинутый" lang="ru"/>покинутый, оставленный; <index level1="эльф" lang="ru"/>эльф Фалатрим</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>Eglath</mentioned> <bibl>WJ/189, WJ/344</bibl></note>
@@ -17665,6 +17829,9 @@
     <trans lang="en">
       <def><index level1="or" lang="en"/>or</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="или" lang="ru"/>или</def>
+    </trans>
   </sense>
   <note type="source"><bibl>SD/129-31</bibl></note>
 </entry>
@@ -17693,6 +17860,9 @@
     <trans lang="en">
       <def><index level1="rainbow" lang="en"/>rainbow</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="радуга" lang="ru"/>радуга</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/360, Ety/400</bibl></note>
   <note type="comment" lang="fr">
@@ -17700,6 +17870,9 @@
   </note>
   <note type="comment" lang="en">
     See <ptr target="ianu"/> and <ptr target="iant"/> for a discussion
+  </note>
+  <note type="comment" lang="ru">
+    См. <ptr target="ianu"/> и <ptr target="iant"/> для обсуждения
   </note>
   <etym>“sky-bridge”</etym>
 </entry>
@@ -17722,6 +17895,9 @@
     <trans lang="en">
       <def><bibl>PM/358</bibl> <index level1="elder" lang="en"/>elder</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="древний" lang="ru"/>древний, крайне старый</def>
+    </trans>
   </sense>
   <etym>an+iaur (?) “very, extremely old”</etym>
 </entry>
@@ -17743,6 +17919,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="daisy" lang="en"/>daisy (<index level1="flower" lang="en"/>flower)</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="маргаритка" lang="ru"/>маргаритка, <index level1="ромашка" lang="ru"/>ромашка</def>
     </trans>
   </sense>
   <note type="source"><bibl>SD/129-31</bibl></note>
@@ -17767,6 +17946,9 @@
     <trans lang="en">
       <def><bibl>WJ/365</bibl> to <index level1="prick" lang="en"/>prick with a sharp point, to <index level1="stab" lang="en"/>stab</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="колоть" lang="ru"/>колоть остриём, <index level1="ранить" lang="ru"/>ранить острым; <index level1="заколоть" lang="ru"/>заколоть</def>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -17778,6 +17960,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>WJ/365</bibl> to treat with <index level1="scorn" lang="en"/>scorn, <index level1="insult" lang="en"/>insult</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="презирать" lang="ru"/>презирать, относиться с презрением; <index level1="оскорблять" lang="ru"/>оскорблять</def>
     </trans>
   </sense>
   <re corresp="eithad">
@@ -17792,16 +17977,16 @@
 
 <entry n="2" id="eitha-.2">
   <form type="regular">
-  <form>
-    <orth>eitha-</orth><usg type="lang" norm="S."/>
-    <bibl>PE/17:148</bibl>
-    <pron>"EjTA</pron>
-  </form>
+    <form>
+      <orth>eitha-</orth><usg type="lang" norm="S."/>
+      <bibl>PE/17:148</bibl>
+      <pron>"EjTA</pron>
+    </form>
   </form>
   <sense>
-  <gramGrp>
-    <pos>v.</pos>
-  </gramGrp>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
     <trans lang="fr">
       <def><index lang="fr" level1="aider"/>aider, <index lang="fr" level1="assister"/>assister,
            <index lang="fr" level1="appaiser"/>appaiser, <index lang="fr" level1="soigner"/>soigner</def>
@@ -17810,6 +17995,9 @@
       <def><bibl>PE/17:148</bibl> to <index level1="ease" lang="en"/>ease,
            <index level1="assist" lang="en"/>assist,
            <index level1="comfort" lang="en"/>comfort, <index level1="heal" lang="en"/>heal</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="помогать" lang="ru"/>помогать, <index level1="содействовать" lang="ru"/>содействовать; <index level1="облегчать" lang="ru"/>облегчать, <index level1="утешать" lang="ru"/>утешать; <index level1="исцелять" lang="ru"/>исцелять, <index level1="лечить" lang="ru"/>лечить</def>
     </trans>
   </sense>
 </entry>
@@ -17832,6 +18020,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>WJ/365</bibl> <index level1="insult" lang="en"/>insult</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="оскорбление" lang="ru"/>оскорбление</def>
     </trans>
   </sense>
 </entry>
@@ -17861,6 +18052,9 @@
     <trans lang="en">
       <def>issue of water, <index level1="spring" lang="en"/>spring, <index level1="well" lang="en"/>well</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="источник" lang="ru"/>источник, родник; <index level1="колодец" lang="ru"/>колодец</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/363, S/430, S/433, WJ/85, TC/187</bibl></note>
 </entry>
@@ -17881,7 +18075,10 @@
       <def>(?) <index lang="fr" level1="aussi"/>aussi</def>
     </trans>
     <trans lang="en">
-      <def>(?) <index lang="fr" level1="also"/>also</def>
+      <def>(?) <index lang="en" level1="also"/>also</def>
+    </trans>
+    <trans lang="ru">
+      <def>(?) <index lang="ru" level1="тоже"/>тоже, <index lang="ru" level1="также"/>также</def>
     </trans>
   </sense>
 </entry>
@@ -17911,6 +18108,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="star" lang="en"/>star</def> <usg type="hint">little used except in verses</usg>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="звезда" lang="ru"/>звезда</def> <usg type="hint">малоупотребимо, главным образом в поэзии</usg>
     </trans>
   </sense>
   <note type="source"><bibl>WJ/363, MR/373, RGEO/73, Letters/281, PE/22:150</bibl></note>
@@ -17942,6 +18142,9 @@
     <trans lang="en">
       <def>a <index level1="flower" lang="en"/>flower, a kind of enlarged <index level1="pimpernel" lang="en"/>pimpernel bearing golden and silver flowers</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="цветок" lang="ru"/>цветок, разновидность крупного <index level1="первоцвет" lang="ru"/>первоцвета/пимпернели с золотыми и серебряными цветками</def>
+    </trans>
   </sense>
   <note type="source"><bibl>LotR/VI:IX, UT/432, Letters/402</bibl></note>
   <etym>êl+anor “star-sun”</etym>
@@ -17965,6 +18168,9 @@
     <trans lang="en">
       <def><index level1="starry" lang="en"/>starry host, all the host of the <index level1="star" lang="en"/>stars of heaven</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="сонм" lang="ru"/>сонм звёзд, множество небесных звёзд</def>
+    </trans>
   </sense>
   <note type="source"><bibl>LotR/II:I, RGEO/73-75, WJ/363</bibl></note>
 </entry>
@@ -17987,6 +18193,9 @@
     <trans lang="en">
       <def><bibl>PE/17:146</bibl> to cause to prosper, bless (a work), help one</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="способствовать" lang="ru"/>способствовать процветанию; <index level1="благословлять" lang="ru"/>благословлять (дело, труд); <index level1="помогать" lang="ru"/>помогать кому-либо</def>
+    </trans>
   </sense>
 </entry>
 
@@ -18008,6 +18217,9 @@
     <trans lang="en">
       <def>the <index level1="elf" lang="en"/>Elves</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="эльфы" lang="ru"/>эльфы</def>
+    </trans>
   </sense>
 </entry>
 
@@ -18027,6 +18239,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="elf" lang="en"/>elf-<index level1="maid" lang="en"/>maid</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="эльфийка" lang="ru"/>эльфийская дева, девушка-эльф</def>
     </trans>
   </sense>
   <note type="source"><bibl>WJ/148, WJ/256, WJ/363-364</bibl></note>
@@ -18049,6 +18264,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>WJ/363-364</bibl> <index level1="elf" lang="en"/>elf</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="эльф" lang="ru"/>эльф</def>
     </trans>
   </sense>
 </entry>
@@ -18073,6 +18291,9 @@
     <trans lang="en">
       <def><bibl>VT/42:18, NM/390</bibl> (single) <index level1="flower" lang="en"/>flower</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="цветок" lang="ru"/>цветок (одиночный)</def>
+    </trans>
   </sense>
   <etym>er- + loth</etym>
 </entry>
@@ -18095,6 +18316,9 @@
     <trans lang="en">
       <def><bibl>WJ/362</bibl> an <index level1="exclamation" lang="en"/>exclamation of wonder, admiration, delight</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="восклицание" lang="ru"/>восклицание восхищения, удивления, восторга</def>
+    </trans>
   </sense>
 </entry>
 
@@ -18115,10 +18339,13 @@
       <pos>adj.</pos>
     </gramGrp>
     <trans lang="fr">
-      <def><index lang="fr" level1="bleu"/>bleu (pâle)</def>
+      <def><index lang="fr" level1="bleu"/>bleu</def> <usg type="hint">(pâle)</usg>
     </trans>
     <trans lang="en">
       <def><bibl>Ety/360</bibl> (pale) <index level1="blue" lang="en"/>blue</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="голубой" lang="ru"/>голубой</def> <usg type="hint">(бледный)</usg>
     </trans>
   </sense>
 </entry>
@@ -18143,10 +18370,13 @@
       <pos>n.</pos>
     </gramGrp>
     <trans lang="fr">
-      <def><index lang="fr" level1="ami"/>ami des <index lang="fr" level1="Elfe"/>Elfes</def>
+      <def><index lang="fr" level1="ami"/>ami</def> des <index lang="fr" level1="Elfe"/>Elfes</def>
     </trans>
     <trans lang="en">
       <def><bibl>WJ/412</bibl> <index level1="elf" lang="en"/>elf-<index level1="friend" lang="en"/>friend</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="друг" lang="ru"/>друг</def> эльфов</def>
     </trans>
   </sense>
 </entry>
@@ -18171,14 +18401,17 @@
     <trans lang="fr">
       <def><index lang="fr" level1="mère"/>mère</def>
     </trans>
-      <def><bibl>VT/48:17</bibl> <index level1="mother" lang="en"/>mother</def>
     <trans lang="en">
+      <def><bibl>VT/48:17</bibl> <index level1="mother" lang="en"/>mother</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="мать" lang="ru"/>мать</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>Emeldir</mentioned> <bibl>S/155</bibl></note>
   <re corresp="emig">
     <form>
-     <orth>emig</orth><usg type="lang" norm="S."/>
+      <orth>emig</orth><usg type="lang" norm="S."/>
     </form>
     <gramGrp>
       <pos>n.</pos> <gen>f.</gen> <usg type="reg">dim.</usg>
@@ -18203,7 +18436,10 @@
       <def>« petite <index lang="fr" level1="mère"/>mère »</def>
     </trans>
     <trans lang="en">
-      <def><bibl>VT/48:6,17, NM/184</bibl> “litte <index level1="mother" lang="en"/>mother”</def>
+      <def><bibl>VT/48:6,17, NM/184</bibl> “little <index level1="mother" lang="en"/>mother”</def>
+    </trans>
+    <trans lang="ru">
+      <def>« маленькая <index level1="мать" lang="ru"/>мать »</def>
     </trans>
   </sense>
   <sense>
@@ -18212,10 +18448,15 @@
     </gramGrp>
     <usg type="dom">Biol.</usg>
     <trans lang="fr">
-      <def><index lang="fr" level1="index"/>index</def> <usg type="hint">dans le vocabulaire enfantin</usg>
+      <def><index lang="fr" level1="index"/>index</index> <usg type="hint">dans le vocabulaire enfantin</usg></def>
     </trans>
     <trans lang="en">
-      <def><bibl>VT/48:6,17, NM/184</bibl> forefinger, <index level1="index" lang="en"/>index <index level1="finger" lang="en"/>finger</def> <usg type="hint">Elvish play-name used by and taught to children</usg>
+      <def><bibl>VT/48:6,17, NM/184</bibl> forefinger, <index level1="index" lang="en"/>index <index level1="finger" lang="en"/>finger</def>
+      <usg type="hint">Elvish play-name used by and taught to children</usg>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="указательный" lang="ru"/>указательный <index level1="палец" lang="ru"/>палец</def>
+      <usg type="hint">эльфийское “игровое” название, употреблялось и преподавалось детям</usg>
     </trans>
   </sense>
 </entry>
@@ -18238,6 +18479,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>VT/45:5</bibl> <index level1="mother" lang="en"/>mother</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="мать" lang="ru"/>мать</def> <usg type="hint">поэт.</usg>
     </trans>
   </sense>
 </entry>
@@ -18264,10 +18508,13 @@
     </gramGrp>
     <usg type="dom">Orn.</usg>
     <trans lang="fr">
-      <def><index lang="fr" level1="oiseau"/>oiseau jaune, <index lang="fr" level1="bruant"/>bruant jaune</def>
+      <def><index lang="fr" level1="oiseau"/>oiseau</index> jaune, <index lang="fr" level1="bruant"/>bruant</index> jaune</def>
     </trans>
     <trans lang="en">
       <def><bibl>Ety/386</bibl> yellow <index level1="bird" lang="en"/>bird, “yellow hammer”</def>
+    </trans>
+    <trans lang="ru">
+      <def>жёлтая <index level1="птица" lang="ru"/>птица, «<index level1="овсянка" lang="ru"/>овсянка жёлтая»</def>
     </trans>
   </sense>
 </entry>
@@ -18288,6 +18535,10 @@
     </trans>
     <trans lang="en">
       <def>of the</def> <usg type="hint">genitival article</usg>
+    </trans>
+    <trans lang="ru">
+      <def>«<index level1="из" lang="ru"/>из», «<index level1="у" lang="ru"/>у», «<index level1="от" lang="ru"/>от» + определённость</def>
+      <usg type="hint">родительный артикль</usg>
     </trans>
   </sense>
   <note type="source"><bibl>LotR/VI:IV, Letters/308, VT/50:23</bibl></note>
@@ -18311,7 +18562,10 @@
     </trans>
     <trans lang="en">
       <def>(unknown meaning, perhaps a passive auxiliary)</def>
-    </trans>&gt;
+    </trans>
+    <trans lang="ru">
+      <def>(значение неизвестно, возможно пассивный вспомогательный элемент)</def>
+    </trans>
   </sense>
   <xr type="analogy"><ptr target="aen"/></xr>
 </entry>
@@ -18342,6 +18596,9 @@
     <trans lang="en">
       <def><bibl>VT/42:10,25,27-28</bibl> <index level1="sixth" lang="en"/>sixth</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="шестой" lang="ru"/>шестой</def>
+    </trans>
   </sense>
 </entry>
 
@@ -18362,6 +18619,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>VT/42:25</bibl> <index level1="sixth" lang="en"/>sixth</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="шестой" lang="ru"/>шестой</def>
     </trans>
   </sense>
   <xr type="analogy"><ptr target="enchui"/></xr>
@@ -18387,6 +18647,9 @@
     <trans lang="en">
       <def><index level1="core" lang="en"/>core, <index level1="centre" lang="en"/>centre, <index level1="middle" lang="en"/>middle</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="сердце" lang="ru"/>сердце, <index level1="центр" lang="ru"/>центр, <index level1="середина" lang="ru"/>середина</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/356, Ety/376, UT/450, Letters/224, VT/41:12,16</bibl></note>
   <note type="comment" lang="fr">
@@ -18402,14 +18665,13 @@
     (alors, encore une fois, qu’un préfixe <ptr target="nedh-"/>
     figure dans les <hi>Etymologies</hi>)
   </note>
-  <note type="comment" lang="en">While the word is written <hi>enedh</hi> in the
-    <hi>Etymologies</hi>, it seems that Tolkien considered and reconsidered
-    its form throughout his life. Late rough jottings (c. 1968), as well as
-    the text of letter no. 168 and the fact that the toponym Enedwaith was
-    never changed on the LotR map, seem to imply that <hi>ened</hi> is the
-    (most) definitive form. See also the possibly related preposition
-    <ptr target="ned"/>, which has sometimes been suggested to mean “in”
-    (while again a prefix <ptr target="nedh-"/> is seen in the
+  <note type="comment" lang="en">
+    While the word is written <hi>enedh</hi> in the <hi>Etymologies</hi>, it seems that Tolkien
+    considered and reconsidered its form throughout his life. Late rough jottings (c. 1968),
+    as well as the text of letter no. 168 and the fact that the toponym Enedwaith was never
+    changed on the LotR map, seem to imply that <hi>ened</hi> is the (most) definitive form.
+    See also the possibly related preposition <ptr target="ned"/>, which has sometimes been
+    suggested to mean “in” (while again a prefix <ptr target="nedh-"/> is seen in the
     <hi>Etymologies</hi>)
   </note>
 </entry>
@@ -18430,6 +18692,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="six" lang="en"/>six</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="шесть" lang="ru"/>шесть</def>
     </trans>
   </sense>
   <note type="source"><bibl>Ety/356, VT/42:25,31, VT/48:6,8</bibl></note>
@@ -18454,6 +18719,9 @@
     <trans lang="en">
       <def><bibl>VT/44:21,24</bibl> <index level1="name" lang="en"/>name</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="имя" lang="ru"/>имя</def>
+    </trans>
   </sense>
 </entry>
 
@@ -18474,6 +18742,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>SD/129-31</bibl> <index level1="there" lang="en"/>there, in that place</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="там" lang="ru"/>там, в том месте</def>
     </trans>
   </sense>
 </entry>
@@ -18496,9 +18767,12 @@
     <trans lang="en">
       <def><bibl>VT/41:11</bibl> to <index level1="me" lang="en"/>me</def>
     </trans>
+    <trans lang="ru">
+      <def>ко <index level1="мне" lang="ru"/>мне, для меня, по отношению ко мне</def>
+    </trans>
   </sense>
   <etym>an+ni</etym>
-  <xr type="analogy"><ptr target="enni"/></xr>
+  <xr type="analogy"><ptr target="ani"/></xr>
 </entry>
 
 <entry id="ennin">
@@ -18519,6 +18793,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/400</bibl> Valian <index level1="year" lang="en"/>year</def>
+    </trans>
+    <trans lang="ru">
+      <def>валийский <index level1="год" lang="ru"/>год</def>
     </trans>
   </sense>
   <etym>and+în “long year”</etym>
@@ -18541,6 +18818,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>LotR/E</bibl> central land, middle-<index level1="earth" lang="en"/>earth</def>
+    </trans>
+    <trans lang="ru">
+      <def>центральная <index level1="земля" lang="ru"/>земля, <index level1="Средиземье" lang="ru"/>Средиземье</def>
     </trans>
   </sense>
   <re corresp="ennorath">
@@ -18571,6 +18851,9 @@
     <trans lang="en">
       <def>central lands, middle-<index level1="earth" lang="en"/>earth</def>
     </trans>
+    <trans lang="ru">
+      <def>центральные земли, <index level1="Средиземье" lang="ru"/>Средиземье</def>
+    </trans>
   </sense>
   <note type="source"><bibl>LotR/E, LotR/II:I, RGEO/72-75</bibl></note>
 </entry>
@@ -18591,7 +18874,10 @@
       <def>(?) <index lang="fr" level1="encore"/>encore</def>
     </trans>
     <trans lang="en">
-      <def>(?) <index lang="fr" level1="still"/>still</def>
+      <def>(?) <index level1="still" lang="en"/>still</def>
+    </trans>
+    <trans lang="ru">
+      <def>(?) <index level1="ещё" lang="ru"/>ещё, всё ещё</def>
     </trans>
   </sense>
 </entry>
@@ -18613,6 +18899,9 @@
     <trans lang="en">
       <def>outer <index level1="fence" lang="en"/>fence, encircling fence</def>
     </trans>
+    <trans lang="ru">
+      <def>внешняя <index level1="ограда" lang="ru"/>ограда, <index level1="окружающая" lang="ru"/>окружающая ограда</def>
+    </trans>
   </sense>
   <note type="source"><bibl>S/436, LotR/E</bibl></note>
   <etym>et+pêl</etym>
@@ -18630,12 +18919,13 @@
       <pos>v.</pos>
     </gramGrp>
     <trans lang="fr">
-      <def>(?) se <index lang="fr" level1="souvenir"/>souvenir,
-           conserver la mémoire (de qqch.)</def>
+      <def>(?) se <index lang="fr" level1="souvenir"/>souvenir, conserver la mémoire (de qqch.)</def>
     </trans>
     <trans lang="en">
-      <def>(?) to <index level1="remember" lang="en"/>remember,
-           hold in memory, preserve</def>
+      <def>(?) to <index level1="remember" lang="en"/>remember, hold in memory, preserve</def>
+    </trans>
+    <trans lang="ru">
+      <def>(?) <index level1="помнить" lang="ru"/>помнить, <index level1="вспоминать" lang="ru"/>вспоминать; хранить в памяти, сохранять</def>
     </trans>
   </sense>
   <re>
@@ -18667,6 +18957,9 @@
     <trans lang="en">
       <def><bibl>VT/48:6, NM/391</bibl> <index level1="single" lang="en"/>single</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="один" lang="ru"/>один, <index level1="единственный" lang="ru"/>единственный</def>
+    </trans>
   </sense>
 </entry>
 
@@ -18688,6 +18981,9 @@
     <trans lang="en">
       <def><bibl>VT/42:19</bibl> <index level1="alone" lang="en"/>alone, <index level1="one" lang="en"/>one</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="один" lang="ru"/>один, <index level1="единственный" lang="ru"/>единственный</def>
+    </trans>
   </sense>
 </entry>
 
@@ -18708,6 +19004,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/356</bibl> <index level1="prickle" lang="en"/>prickle</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="колючка" lang="ru"/>колючка, <index level1="шип" lang="ru"/>шип</def>
     </trans>
   </sense>
 </entry>
@@ -18737,6 +19036,9 @@
     <trans lang="en">
       <def><bibl>Ety/356</bibl> to <index level1="prick" lang="en"/>prick</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="уколоть" lang="ru"/>уколоть, <index level1="колоть" lang="ru"/>колоть</def>
+    </trans>
   </sense>
 </entry>
 
@@ -18756,6 +19058,9 @@
     </trans>
     <trans lang="en">
       <def>one-<index level1="handed" lang="en"/>handed</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="однорукий" lang="ru"/>однорукий</def>
     </trans>
   </sense>
   <note type="source"><bibl>WJ/51, WJ/231</bibl></note>
@@ -18783,6 +19088,9 @@
     <trans lang="en">
       <def><bibl>VT/47:7</bibl> one-<index level1="handed" lang="en"/>handed man</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="однорукий" lang="ru"/>однорукий (мужчина)</def>
+    </trans>
   </sense>
 </entry>
 
@@ -18808,6 +19116,9 @@
     <trans lang="en">
       <def><bibl>Ety/361</bibl> one-<index level1="handed" lang="en"/>handed</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="однорукий" lang="ru"/>однорукий</def>
+    </trans>
   </sense>
 </entry>
 
@@ -18823,7 +19134,7 @@
       <pos>der.</pos>
       <number>pl.</number>
     </gramGrp>
-   <xr type="of"><ptr target="orch"/></xr>
+    <xr type="of"><ptr target="orch"/></xr>
   </sense>
   <note type="source,deduced"><mentioned>Annerchion</mentioned> <bibl>TI/114</bibl></note>
 </entry>
@@ -18849,12 +19160,15 @@
       <pos>adj.</pos>
     </gramGrp>
     <trans lang="fr">
-      <def><index lang="fr" level1="isolé"/>isolé, <index lang="fr" level1="solitaire"/>solitaire</def>, seul
+      <def><index lang="fr" level1="isolé"/>isolé, <index lang="fr" level1="solitaire"/>solitaire, <index lang="fr" level1="seul"/>seul</def>
     </trans>
     <trans lang="en">
-      <def><index level1="lonely" lang="en"/>lonely
+      <def><index level1="lonely" lang="en"/>lonely,
         <bibl>Ety/356</bibl> <index level1="isolated" lang="en"/>isolated,
-        <bibl>VT/42:10, NM/381</bibl> single, alone</def>
+        <bibl>VT/42:10, NM/381</bibl> <index level1="single" lang="en"/>single, <index level1="alone" lang="en"/>alone</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="одинокий" lang="ru"/>одинокий, <index level1="изолированный" lang="ru"/>изолированный, <index level1="единственный" lang="ru"/>единственный</def>
     </trans>
   </sense>
 </entry>
@@ -18876,8 +19190,10 @@
       <def><index lang="fr" level1="graine"/>graine, <index lang="fr" level1="germe"/>germe</def>
     </trans>
     <trans lang="en">
-      <def><bibl>Ety/356</bibl> <index level1="seed" lang="en"/>seed,
-           <index level1="germ" lang="en"/>germ</def>
+      <def><bibl>Ety/356</bibl> <index level1="seed" lang="en"/>seed, <index level1="germ" lang="en"/>germ</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="семя" lang="ru"/>семя, <index level1="зерно" lang="ru"/>зерно; <index level1="зародыш" lang="ru"/>зародыш, <index level1="росток" lang="ru"/>росток</def>
     </trans>
   </sense>
 </entry>
@@ -18905,7 +19221,10 @@
       <def><index lang="fr" level1="houx"/>houx, arbre ou plante portant des <index lang="fr" level1="épine"/>épines</def>
     </trans>
     <trans lang="en">
-      <def><index level1="holly" lang="en"/>holly-<index level1="tree" lang="en"/>tree, <index level1="thorn" lang="en"/>thorn</def>
+      <def><index level1="holly" lang="en"/>holly-tree, <index level1="thorn" lang="en"/>thorn</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="падуб" lang="ru"/>падуб, колючее растение</def>
     </trans>
   </sense>
   <note type="source"><bibl>Ety/356, S/431, PE/17:42</bibl></note>
@@ -18936,7 +19255,10 @@
       <def><index lang="fr" level1="houx"/>houx</def>
     </trans>
     <trans lang="en">
-      <def><index level1="holly" lang="en"/>holly, holly-<index level1="tree" lang="en"/>tree</def>
+      <def><index level1="holly" lang="en"/>holly, holly-tree</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="падуб" lang="ru"/>падуб</def>
     </trans>
   </sense>
   <note type="source"><bibl>Ety/356, Ety/379, Ety/395</bibl></note>
@@ -18995,6 +19317,9 @@
     <trans lang="en">
       <def>to <index level1="rise" lang="en"/>rise</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="подниматься" lang="ru"/>подниматься, вставать</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/379, VT/46:7</bibl></note>
   <xr type="analogy"><ptr target="ortha-"/></xr>
@@ -19017,6 +19342,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>SD/129-31</bibl> <index level1="on" lang="en"/>on the</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="на" lang="ru"/>на</def>
     </trans>
   </sense>
   <etym>or+i, MS *œrin</etym>
@@ -19042,35 +19370,10 @@
       <def><bibl>Ety/356, PE/22:31</bibl> <index level1="single" lang="en"/>single,
            <bibl>Ety/356</bibl> <index level1="alone" lang="en"/>alone</def>
     </trans>
-  </sense>
-</entry>
-
-<entry id="ernil" n="2">
-  <form type="regular">
-    <form>
-      <orth>ernil</orth><usg type="lang" norm="S."/>
-      <pron>"Ernil,</pron>
-    </form>
-  </form>
-  <form type="inflected">
-    <number>pl.</number>
-    <form>
-      <orth>ernil</orth><usg type="lang" norm="S."/>
-    </form>
-  </form>
-  <sense>
-    <gramGrp>
-      <pos>n.</pos>
-    </gramGrp>
-    <usg type="cat" norm="19.35"/>
-    <trans lang="fr">
-      <def><index lang="fr" level1="prince"/>prince</def>
-    </trans>
-    <trans lang="en">
-      <def><index level1="prince" lang="en"/>prince</def>
+    <trans lang="ru">
+      <def><index level1="единственный" lang="ru"/>единственный, <index level1="одинокий" lang="ru"/>одинокий</def>
     </trans>
   </sense>
-  <note type="source"><bibl>LotR/VI:IV, Letters/308, UT/428, RGEO/75, VT/42:12, NM/386</bibl></note>
 </entry>
 
 <entry id="ero">
@@ -19089,7 +19392,10 @@
       <def>(?) <index lang="fr" level1="seul"/>seul</def>
     </trans>
     <trans lang="en">
-      <def>(?) <index lang="fr" level1="alne"/>alone</def>
+      <def>(?) <index level1="alone" lang="en"/>alone</def>
+    </trans>
+    <trans lang="ru">
+      <def>(?) <index level1="один" lang="ru"/>один, в одиночку</def>
     </trans>
   </sense>
   <xr type="analogy"><ptr target="îr.2"/></xr>
@@ -19112,6 +19418,9 @@
     <trans lang="en">
       <def>to <index level1="unite" lang="en"/>unite</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="соединять" lang="ru"/>соединять, объединять</def>
+    </trans>
   </sense>
   <note type="source,deduced"><mentioned>Aderthad</mentioned> <bibl>S/409</bibl></note>
   <re corresp="erthad">
@@ -19129,7 +19438,7 @@
     <form type="deduced">
       <orth>erthad</orth><usg type="lang" norm="S."/>
       <pron>"ErTAd</pron>
-  </form>
+    </form>
   </form>
   <sense>
     <gramGrp>
@@ -19141,6 +19450,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="union" lang="en"/>union, <index level1="uniting" lang="en"/>uniting</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="союз" lang="ru"/>союз, объединение</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>Aderthad</mentioned> <bibl>S/409</bibl></note>
@@ -19166,6 +19478,10 @@
       <def><bibl>Ety/356</bibl> <index level1="waste" lang="en"/>waste,
            <index level1="desert" lang="en"/>desert</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/356</bibl> <index level1="пустошь" lang="ru"/>пустошь,
+           <index level1="пустыня" lang="ru"/>пустыня</def>
+    </trans>
   </sense>
 </entry>
 
@@ -19187,6 +19503,9 @@
     <trans lang="en">
       <def><index level1="single" lang="en"/>single, <index level1="alone" lang="en"/>alone</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="единственный" lang="ru"/>единственный, <index level1="одинокий" lang="ru"/>одинокий</def>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -19200,6 +19519,9 @@
     <trans lang="en">
       <def><index level1="first" lang="en"/>first</def> <usg type="hint">incorrect use by the Gondorians</usg>
     </trans>
+    <trans lang="ru">
+      <def><index level1="первый" lang="ru"/>первый</def> <usg type="hint">неправильное употребление гондорцами</usg>
+    </trans>
   </sense>
   <note type="source"><bibl>TI/312, WR/436, VT/42:10</bibl></note>
   <note type="comment" lang="fr">
@@ -19208,6 +19530,9 @@
   </note>
   <note type="comment" lang="en">
     The proper word for <hi>first</hi> in Sindarin was <ptr target="minui"/>
+  </note>
+  <note type="comment" lang="ru">
+    Правильным словом для <hi>первый</hi> в синдарине на самом деле было <ptr target="minui"/>
   </note>
 </entry>
 
@@ -19245,6 +19570,12 @@
            <bibl>PE/17:119</bibl> wood of trees,
            <bibl>PE/17:153</bibl> forest of trees</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>UT/436, LotR/B, VT/42:20, NM/392</bibl> <index level1="лес" lang="ru"/>лес,
+           <bibl>PE/17:33</bibl> <index level1="лес" lang="ru"/>лес,
+           <bibl>PE/17:119</bibl> <index level1="лес" lang="ru"/>лес (из деревьев),
+           <bibl>PE/17:153</bibl> <index level1="лес" lang="ru"/>лес (деревья)</def>
+    </trans>
   </sense>
   <etym><bibl>PE/17:119</bibl> <hi>*oronyē</hi>, “of trees”, <bibl>PE/17:33</bibl> <hi>*oronī</hi> originally plural,
     <bibl>PE/17:119</bibl> plural noun, but used as “of trees”.</etym>
@@ -19270,6 +19601,10 @@
       <def><bibl>PE/17:17</bibl> thin thread,
            <bibl>PE/17:119</bibl> tress</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>PE/17:17</bibl> <index level1="нить" lang="ru"/>тонкая нить,
+           <bibl>PE/17:119</bibl> <index level1="коса" lang="ru"/>коса (прядь)</def>
+    </trans>
   </sense>
 </entry>
 
@@ -19290,6 +19625,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>S/431</bibl> <index level1="veil" lang="en"/>veil, <index level1="screen" lang="en"/>screen, <index level1="cover" lang="en"/>cover that hides</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>S/431</bibl> <index level1="вуаль" lang="ru"/>вуаль, <index level1="экран" lang="ru"/>экран, <index level1="покрывало" lang="ru"/>покрывало (скрывающее)</def>
     </trans>
   </sense>
 </entry>
@@ -19313,6 +19651,9 @@
     <trans lang="en">
       <def><bibl>VT/46:14</bibl> <index level1="shore" lang="en"/>shore</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>VT/46:14</bibl> <index level1="берег" lang="ru"/>берег</def>
+    </trans>
   </sense>
 </entry>
 
@@ -19333,6 +19674,9 @@
     </trans>
     <trans lang="en">
       <def>to <index level1="name" lang="en"/>name</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="именовать" lang="ru"/>именовать, <index level1="называть" lang="ru"/>называть</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>estathar</mentioned> <bibl>SD/129-31</bibl></note>
@@ -19375,6 +19719,9 @@
     <trans lang="en">
       <def><bibl>SD/129-31</bibl> (they) will name</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>SD/129-31</bibl> (они) <index level1="назвать" lang="ru"/>назовут</def>
+    </trans>
   </sense>
 </entry>
 
@@ -19394,6 +19741,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="hope" lang="en"/>hope, <index level1="trust" lang="en"/>trust, a temper of mind, steady fixed in purpose, and difficult to dissuade and unlikely to fall into despair or abandon its purpose</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="надежда" lang="ru"/>надежда, <index level1="доверие" lang="ru"/>доверие, склад ума и сила характера, твёрдо закреплённые в цели; их трудно поколебать, и они мало склонны впасть в <index level1="отчаяние" lang="ru"/>отчаяние или отказаться от своего намерения</def>
     </trans>
   </sense>
   <note type="source"><bibl>WJ/318-319, LotR/A(v), MR/320</bibl></note>
@@ -19416,6 +19766,9 @@
     <trans lang="en">
       <def>(very?) <index level1="short" lang="en"/>short</def>
     </trans>
+    <trans lang="ru">
+      <def>(очень?) <index level1="короткий" lang="ru"/>короткий</def>
+    </trans>
   </sense>
   <note type="source"><bibl>UT/146, WJ/311, WJ/315</bibl></note>
   <note type="comment" lang="fr">
@@ -19429,6 +19782,12 @@
     The slash sign in <hi>minlamad thent/estent</hi> might indicate either variant
     forms of an adjective, or a sequence of two short verse units, possibly of
     alliterating half-lines, see <hi>Tolkien’s Legendarium</hi> p. 122
+  </note>
+  <note type="comment" lang="ru">
+    Косая черта в <hi>minlamad thent/estent</hi> может обозначать либо вариантные
+    формы одного и того же прилагательного, либо последовательность из двух
+    коротких стиховых единиц, возможно состоящих из двух аллитерирующих полустрок;
+    см. <hi>Tolkien’s Legendarium</hi>, стр. 122
   </note>
   <xr type="analogy"><ptr target="then.1"/>, <ptr target="thent"/></xr>
 </entry>
@@ -19449,6 +19808,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="encampment" lang="en"/>encampment</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="лагерь" lang="ru"/>лагерь, <index level1="стан" lang="ru"/>стан</def>
     </trans>
   </sense>
   <note type="source"><bibl>UT/77, S/396</bibl></note>
@@ -19472,6 +19834,9 @@
     <trans lang="en">
       <def><index level1="mouth" lang="en"/>mouth</def> <usg type="hint">of a <index level1="river" lang="en"/>river</usg>, <def><index level1="estuary" lang="en"/>estuary</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="устье" lang="ru"/>устье</def> <usg type="hint">реки</usg>, <def><index level1="эстуарий" lang="ru"/>эстуарий</def>
+    </trans>
   </sense>
   <note type="source"><bibl>LotR/II:X, Ety/356, RC/350</bibl></note>
   <etym>ed+sîr “outflow”</etym>
@@ -19493,6 +19858,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="spy" lang="en"/>spy</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="шпион" lang="ru"/>шпион, <index level1="лазутчик" lang="ru"/>лазутчик</def>
     </trans>
   </sense>
   <note type="source"><bibl>S/379, UT/418</bibl></note>
@@ -19516,6 +19884,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="season" lang="en"/>season of <index level1="spring" lang="en"/>spring</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="сезон" lang="ru"/>сезон <index level1="весна" lang="ru"/>весны, <index level1="весенняя_пора" lang="ru"/>весенняя пора</def>
     </trans>
   </sense>
   <note type="source"><bibl>LotR/D, SD/129-31</bibl></note>
