@@ -18370,13 +18370,13 @@
       <pos>n.</pos>
     </gramGrp>
     <trans lang="fr">
-      <def><index lang="fr" level1="ami"/>ami</def> des <index lang="fr" level1="Elfe"/>Elfes</def>
+      <def><index lang="fr" level1="ami"/>ami des <index lang="fr" level1="Elfe"/>Elfes</def>
     </trans>
     <trans lang="en">
       <def><bibl>WJ/412</bibl> <index level1="elf" lang="en"/>elf-<index level1="friend" lang="en"/>friend</def>
     </trans>
     <trans lang="ru">
-      <def><index level1="друг" lang="ru"/>друг</def> эльфов</def>
+      <def><index level1="друг" lang="ru"/>друг эльфов</def>
     </trans>
   </sense>
 </entry>
@@ -18448,7 +18448,7 @@
     </gramGrp>
     <usg type="dom">Biol.</usg>
     <trans lang="fr">
-      <def><index lang="fr" level1="index"/>index</index> <usg type="hint">dans le vocabulaire enfantin</usg></def>
+      <def><index lang="fr" level1="index"/>index <usg type="hint">dans le vocabulaire enfantin</usg></def>
     </trans>
     <trans lang="en">
       <def><bibl>VT/48:6,17, NM/184</bibl> forefinger, <index level1="index" lang="en"/>index <index level1="finger" lang="en"/>finger</def>
@@ -18456,7 +18456,7 @@
     </trans>
     <trans lang="ru">
       <def><index level1="указательный" lang="ru"/>указательный <index level1="палец" lang="ru"/>палец</def>
-      <usg type="hint">эльфийское “игровое” название, употреблялось и преподавалось детям</usg>
+      <usg type="hint">эльфийское «игровое» название, употреблялось и преподавалось детям</usg>
     </trans>
   </sense>
 </entry>
@@ -18508,7 +18508,7 @@
     </gramGrp>
     <usg type="dom">Orn.</usg>
     <trans lang="fr">
-      <def><index lang="fr" level1="oiseau"/>oiseau</index> jaune, <index lang="fr" level1="bruant"/>bruant</index> jaune</def>
+      <def><index lang="fr" level1="oiseau"/>oiseau jaune, <index lang="fr" level1="bruant"/>bruant jaune</def>
     </trans>
     <trans lang="en">
       <def><bibl>Ety/386</bibl> yellow <index level1="bird" lang="en"/>bird, “yellow hammer”</def>
