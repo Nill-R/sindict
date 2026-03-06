@@ -19387,6 +19387,37 @@
   </sense>
 </entry>
 
+<entry id="ernil" n="2">
+  <form type="regular">
+    <form>
+      <orth>ernil</orth><usg type="lang" norm="S."/>
+      <pron>"Ernil,</pron>
+    </form>
+  </form>
+  <form type="inflected">
+    <number>pl.</number>
+    <form>
+      <orth>ernil</orth><usg type="lang" norm="S."/>
+    </form>
+  </form>
+  <sense>
+    <gramGrp>
+      <pos>n.</pos>
+    </gramGrp>
+    <usg type="cat" norm="19.35"/>
+    <trans lang="fr">
+      <def><index lang="fr" level1="prince"/>prince</def>
+    </trans>
+    <trans lang="en">
+      <def><index level1="prince" lang="en"/>prince</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="князь" lang="ru"/>князь, <index level1="принц" lang="ru"/>принц</def>
+    </trans>
+  </sense>
+  <note type="source"><bibl>LotR/VI:IV, Letters/308, UT/428, RGEO/75, VT/42:12, NM/386</bibl></note>
+</entry>
+
 <entry id="ero">
   <form type="regular">
     <form>
