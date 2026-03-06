@@ -19956,6 +19956,9 @@
     <trans lang="en">
       <def><bibl>Ety/387</bibl> <index level1="mean" lang="en"/>mean, <index level1="poor" lang="en"/>poor, <index level1="bad" lang="en"/>bad</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="посредственный" lang="ru"/>посредственный, <index level1="бедный" lang="ru"/>бедный, <index level1="плохой" lang="ru"/>плохой</def>
+    </trans>
   </sense>
 </entry>
 
@@ -19977,6 +19980,9 @@
     <trans lang="en">
       <def><bibl>PM/352</bibl> <index level1="fair" lang="en"/>fair minded, <index level1="just" lang="en"/>just, <index level1="generous" lang="en"/>generous</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="благородный" lang="ru"/>благородный духом, <index level1="справедливый" lang="ru"/>справедливый, <index level1="великодушный" lang="ru"/>великодушный</def>
+    </trans>
   </sense>
   <etym>Etym. “having a good fëa”</etym>
 </entry>
@@ -19997,6 +20003,9 @@
     </trans>
     <trans lang="en">
       <def>gleaming <index level1="brilliance" lang="en"/>brilliance</def> <usg type="hint">of the sun</usg>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="сияние" lang="ru"/>сияние, блеск</def> <usg type="hint">солнца</usg>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>Faelivrin</mentioned> <bibl>LB/376, S/209-210</bibl></note>
@@ -20024,6 +20033,9 @@
     <trans lang="en">
       <def><bibl>Ety/381</bibl> <index level1="radiant" lang="en"/>radiant, <index level1="white" lang="en"/>white</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="сияющий" lang="ru"/>сияющий, <index level1="белый" lang="ru"/>белый</def>
+    </trans>
   </sense>
 </entry>
 
@@ -20044,6 +20056,9 @@
     <trans lang="en">
       <def><bibl>NM/237</bibl> vapour</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="пар" lang="ru"/>пар, <index level1="испарение" lang="ru"/>испарение</def>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -20054,6 +20069,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>NM/237</bibl> spirit or incorporeal presence and operation</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="дух" lang="ru"/>дух или бесплотное присутствие и его проявления</def>
     </trans>
   </sense>
 </entry>
@@ -20075,6 +20093,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>MR/349</bibl> <index level1="spirit" lang="en"/>spirit</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="дух" lang="ru"/>дух</def>
     </trans>
   </sense>
 </entry>
@@ -20103,6 +20124,11 @@
            <bibl>PE/17:36</bibl> shimmering,
            <bibl>PE/17:26</bibl> shining</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/387, VT/46:15, PE/17:26, PE/17:36</bibl> <index level1="белый" lang="ru"/>белый,
+           <bibl>PE/17:36</bibl> мерцающий,
+           <bibl>PE/17:26</bibl> сияющий</def>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -20113,6 +20139,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>NM/237</bibl> pallid, white, diaphanous</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>NM/237</bibl> бледный, белый, <index level1="полупрозрачный" lang="ru"/>полупрозрачный</def>
     </trans>
   </sense>
   <sense>
@@ -20133,6 +20162,13 @@
         screened light, such as a canopy of young still half-transparent leaves, or textures that
         veiled but only half-concealed a form</usg>
     </trans>
+    <trans lang="ru">
+      <def><bibl>PE/17:174, NM/241-242</bibl> тусклый, приглушённый</def> <usg type="hint">о приглушённом или
+        угасающем свете либо о вещах, видимых в таком свете</usg>,
+      <def>дымчатый, тонкотканый и т. п.</def> <usg type="hint">о вещах, которые лишь частично
+        заслоняли свет, например о пологе из молодых ещё наполовину прозрачных листьев
+        или о тканях, которые скрывали, но не полностью, некую форму</usg>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -20144,6 +20180,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>RC/268</bibl> <index level1="cloud" lang="en"/>cloud</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>RC/268</bibl> <index level1="облако" lang="ru"/>облако</def>
     </trans>
   </sense>
   <sense>
@@ -20157,6 +20196,10 @@
     <trans lang="en">
       <def><bibl>PE/17:174</bibl> vague shapes or fleeting glimpses</def> <usg type="hint">especially of “apparitions” or
         figures seen in dreams</usg>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>PE/17:174</bibl> смутные очертания или мимолётные видения</def> <usg type="hint">в особенности
+        «явления» или призрачные фигуры, увиденные во сне</usg>
     </trans>
   </sense>
   <xr type="analogy"><ptr target="faen.1"/>, <ptr target="faun"/>, <ptr target="fân"/></xr>
@@ -20189,6 +20232,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="mortal" lang="en"/>mortal</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="смертный" lang="ru"/>смертный</def>
     </trans>
   </sense>
   <note type="source"><bibl>Ety/381, WJ/387</bibl></note>
@@ -20243,6 +20289,16 @@
            <bibl>VT/42:15, NM/386</bibl> beach, shore <usg type="hint">especially one exposed to
              great waves and breakers</usg>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> пляж,
+           <bibl>Ety/381, S/431</bibl> берег</def>,
+           <bibl>S/431</bibl> линия прибоя,
+           <bibl>RC/18</bibl> прибой, берег, о который бьются волны,
+           <bibl>PE/17:62</bibl> полоса прибоя, морской берег,
+           <bibl>PE/17:73,97</bibl> пляж, береговая полоса,
+           <bibl>VT/42:15, NM/386</bibl> пляж, берег <usg type="hint">особенно такой, который открыт
+             большим волнам и бурунам</usg>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -20255,6 +20311,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/381, S/421, VT/42:15, NM/386</bibl> Western Shore, Coast</def> <usg type="hint">of Beleriand</usg>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381, S/421, VT/42:15, NM/386</bibl> Западный Берег, Побережье</def> <usg type="hint">Белерианда</usg>
     </trans>
   </sense>
   <re corresp="falathrim">
@@ -20285,6 +20344,9 @@
     <trans lang="en">
       <def><bibl>Ety/381</bibl> of the <index level1="shore" lang="en"/>shore</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> прибрежный, береговой</def>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -20296,6 +20358,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>PM/32, PM/55</bibl> <index level1="language" lang="en"/>Shore-language</def> <usg type="hint">one of the names for Common Speech</usg>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>PM/32, PM/55</bibl> <index level1="язык" lang="ru"/>Береговой язык</def> <usg type="hint">одно из названий Всеобщего языка</usg>
     </trans>
   </sense>
   <etym>falas+-ren</etym>
@@ -20318,8 +20383,11 @@
     <trans lang="fr">
       <def>peuple du Falas</def>
     </trans>
-      <trans lang="en">
+    <trans lang="en">
       <def><bibl>WJ/378</bibl> people of the Falas</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>WJ/378</bibl> народ Фаласа</def>
     </trans>
   </sense>
   <etym>falas+rim</etym>
@@ -20344,6 +20412,9 @@
     <trans lang="en">
       <def>deep <index level1="cleft" lang="en"/>cleft, <index level1="ravine" lang="en"/>ravine</def>
     </trans>
+    <trans lang="ru">
+      <def>глубокая <index level1="расселина" lang="ru"/>расселина, <index level1="овраг" lang="ru"/>овраг</def>
+    </trans>
   </sense>
   <note type="source,deduced"><mentioned>Orfalch Echor</mentioned> <bibl>UT/468</bibl></note>
 </entry>
@@ -20365,6 +20436,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/381</bibl> <index level1="foam" lang="en"/>foam, breaker</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> <index level1="пена" lang="ru"/>пена, <index level1="бурун" lang="ru"/>бурун</def>
     </trans>
   </sense>
 </entry>
@@ -20394,6 +20468,9 @@
     <trans lang="en">
       <def><bibl>Ety/381</bibl> to <index level1="foam" lang="en"/>foam</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> <index level1="пениться" lang="ru"/>пениться</def>
+    </trans>
   </sense>
 </entry>
 
@@ -20418,6 +20495,10 @@
       <def><bibl>PE/17:26</bibl> shape</def> <usg type="hint">with the added notion of light and whiteness</usg>,
         <def>vision</def> <usg type="hint">of something beautiful or sublime</usg>
     </trans>
+    <trans lang="ru">
+      <def><bibl>PE/17:26</bibl> форма</def> <usg type="hint">с дополнительным оттенком света и белизны</usg>,
+        <def>видение</def> <usg type="hint">чего-то прекрасного или возвышенного</usg>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -20435,6 +20516,13 @@
       <def><bibl>PE/17:173-174, NM/241,243</bibl> veil</def> <usg type="hint">frequently used of clouds in the sky;
         seldom applied to any but things
         of soft textures, such as woven veils, mantles, or curtains; and the like, of white or pale colours</usg>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>RGEO/74</bibl> <index level1="вуаль" lang="ru"/>вуаль</def>,
+      <def><bibl>PE/17:173-174, NM/241,243</bibl> завеса</def> <usg type="hint">часто употребляется о облаках в небе;
+        редко применяется к чему-либо, кроме предметов мягкой фактуры,
+        таких как тканые вуали, плащи или занавеси, и тому подобного, белых
+        или бледных цветов</usg>
     </trans>
   </sense>
   <sense>
@@ -20458,6 +20546,15 @@
         and mountain-top</usg>,
       <def><bibl>PE/17:180</bibl> nuage</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>RGEO/74</bibl> <index level1="облако" lang="ru"/>облако</def> <usg type="hint">о облаках,
+        плывущих как завесы по синему небу или над солнцем либо луной, либо покоящихся
+        на холмах</usg>,
+      <def><bibl>PE/17:37</bibl> белое облако</def>,
+      <def><bibl>PE/17:174, NM/241,243</bibl> плывущие облака</def> <usg type="hint">или такие, что некоторое время
+        покоятся на холмах и горных вершинах либо обвивают их</usg>,
+      <def><bibl>PE/17:180</bibl> облако</def>
+    </trans>
   </sense>
     <sense>
     <gramGrp>
@@ -20469,6 +20566,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>NM/237</bibl> the particular spirit indwelling in a given body</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>NM/237</bibl> особый дух, обитающий в данном теле</def>
     </trans>
   </sense>
   <etym>Q fana</etym>
@@ -20494,6 +20594,9 @@
     <trans lang="en">
       <def><bibl>Ety/387</bibl> <index level1="beard" lang="en"/>beard</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/387</bibl> <index level1="борода" lang="ru"/>борода</def>
+    </trans>
   </sense>
 </entry>
 
@@ -20515,6 +20618,10 @@
     <trans lang="en">
       <def><bibl>RGEO/74, RC/268, PE/17:26,36,173</bibl> <index level1="cloudy" lang="en"/>cloudy,
            <bibl>PE/17:173</bibl> having much clouds</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>RGEO/74, RC/268, PE/17:26,36,173</bibl> <index level1="облачный" lang="ru"/>облачный,
+           <bibl>PE/17:173</bibl> с большим количеством облаков</def>
     </trans>
   </sense>
 </entry>
@@ -20540,6 +20647,11 @@
       <def><bibl>Ety/381</bibl> <index level1="sufficient" lang="en"/>sufficient,
            <index level1="enough" lang="en"/>enough,
            <index level1="quite" lang="en"/>quite</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> <index level1="достаточный" lang="ru"/>достаточный,
+           <index level1="достаточно" lang="ru"/>достаточно,
+           <index level1="вполне" lang="ru"/>вполне</def>
     </trans>
   </sense>
 </entry>
@@ -20569,6 +20681,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/387</bibl> to <index level1="hunt" lang="en"/>hunt</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/387</bibl> <index level1="охотиться" lang="ru"/>охотиться</def>
     </trans>
   </sense>
   <re corresp="farad">
@@ -20607,6 +20722,9 @@
     <trans lang="en">
       <def><index level1="hunting" lang="en"/>hunting</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="охота" lang="ru"/>охота</def>
+    </trans>
   </sense>
   <note type="source,deduced"><mentioned>faradrim</mentioned> <bibl>Ety/387</bibl></note>
 </entry>
@@ -20629,6 +20747,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/387</bibl> <index level1="hunter" lang="en"/>hunters</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/387</bibl> <index level1="охотник" lang="ru"/>охотники</def>
     </trans>
   </sense>
   <etym>farad+rim</etym>
@@ -20657,6 +20778,9 @@
     <trans lang="en">
       <def><bibl>PE/17:83</bibl> rowan</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>PE/17:83</bibl> <index level1="рябина" lang="ru"/>рябина</def>
+    </trans>
   </sense>
 </entry>
 
@@ -20678,6 +20802,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/387</bibl> <index level1="hunting" lang="en"/>hunting</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/387</bibl> <index level1="охота" lang="ru"/>охота</def>
     </trans>
   </sense>
 </entry>
@@ -20701,6 +20828,9 @@
     <trans lang="en">
       <def><bibl>Ety/381</bibl> <index level1="enough" lang="en"/>enough</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> <index level1="достаточно" lang="ru"/>достаточно</def>
+    </trans>
   </sense>
 </entry>
 
@@ -20720,6 +20850,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="hunter" lang="en"/>hunter</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="охотник" lang="ru"/>охотник</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>Elfaron</mentioned> <bibl>Ety/387</bibl></note>
@@ -20741,6 +20874,9 @@
     </trans>
     <trans lang="en">
       <def>(?) <index level1="hunter" lang="en"/>hunter, (?) group of hunters</def>
+    </trans>
+    <trans lang="ru">
+      <def>(?) <index level1="охотник" lang="ru"/>охотник, (?) группа охотников</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>Taur-en-Faroth</mentioned> <bibl>S/431, Ety/387</bibl></note>
@@ -20765,6 +20901,9 @@
     <trans lang="en">
       <def><bibl>Ety/381</bibl> shaggy <index level1="hair" lang="en"/>hair</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> <index level1="волосы" lang="ru"/>всклокоченные волосы</def>
+    </trans>
   </sense>
 </entry>
 
@@ -20786,6 +20925,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/381</bibl> <index level1="thirsty" lang="en"/>thirsty</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> <index level1="жаждущий" lang="ru"/>жаждущий, <index level1="испытывающий_жажду" lang="ru"/>испытывающий жажду</def>
     </trans>
   </sense>
 </entry>
@@ -20809,6 +20951,9 @@
     <trans lang="en">
       <def><bibl>Ety/387, VT/46:15</bibl> <index level1="cloud" lang="en"/>cloud</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/387, VT/46:15</bibl> <index level1="облако" lang="ru"/>облако</def>
+    </trans>
   </sense>
   <xr type="analogy"><ptr target="fain"/>, <ptr target="fân"/></xr>
 </entry>
@@ -20831,6 +20976,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>VT/46:15</bibl> <index level1="beach" lang="en"/>beach, <index level1="shore" lang="en"/>shore</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>VT/46:15</bibl> <index level1="пляж" lang="ru"/>пляж, <index level1="берег" lang="ru"/>берег, <index level1="побережье" lang="ru"/>побережье</def>
     </trans>
   </sense>
 </entry>
@@ -20857,6 +21005,9 @@
     <trans lang="en">
       <def><bibl>Ety/382, VT/46:10</bibl> <index level1="right" lang="en"/>right (<index level1="hand" lang="en"/>hand)</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/382, VT/46:10</bibl> <index level1="правый" lang="ru"/>правая (<index level1="рука" lang="ru"/>рука)</def>
+    </trans>
   </sense>
   <note type="comment" lang="fr">
     Dans une version antérieure de ce dictionnaire, nous suggérions <hi>fair</hi> comme forme normalisée de ce mot noldorin
@@ -20867,6 +21018,12 @@
     In an earlier version of this dictionary, we suggested <hi>fair</hi> as normalized form of this Noldorin word in
     later Sindarin. As noted by others scholars (Salo, Strack), this word conceivably derives from <hi>*pʰorja</hi>,
     (hence the archaic form <hi>fœir</hi>), which would likely lead to <ptr target="fuir"/>.
+  </note>
+  <note type="comment" lang="ru">
+    В более ранней версии словаря предлагали <hi>fair</hi> как нормализованную форму этого нолдоринского слова
+    в позднем синдарине. Как отмечали другие исследователи (Salo, Strack), это слово, вероятно, происходит от
+    <hi>*pʰorja</hi> (отсюда архаическая форма <hi>fœir</hi>), что, по-видимому, должно было бы привести к форме
+    <ptr target="fuir"/>.
   </note>
 </entry>
 
@@ -20887,6 +21044,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>VT/46:9</bibl> to <index level1="suffice" lang="en"/>suffice</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>VT/46:9</bibl> <index level1="быть_достаточным" lang="ru"/>быть достаточным, <index level1="хватать" lang="ru"/>хватать</def>
     </trans>
   </sense>
 </entry>
@@ -20922,6 +21082,11 @@
       <def><bibl>NM/304</bibl> minor excavations made by wild animals</def> <usg type="hint">often used as lairs or setts</usg>,
            <def>sett</def> <usg type="hint">of badgers</usg>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> <index level1="пещера" lang="ru"/>пещера</def>,
+      <def><bibl>NM/304</bibl> небольшие вырытые дикими животными углубления</def> <usg type="hint">часто используемые как логова или норы</usg>,
+      <def>нора</def> <usg type="hint">барсучья</usg>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -20933,6 +21098,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>NM/304</bibl> temporary dwelling by wandering folk</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>NM/304</bibl> временное жилище странствующего народа</def>
     </trans>
   </sense>
 </entry>
@@ -20960,6 +21128,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="door" lang="en"/>door, <index level1="threshold" lang="en"/>threshold</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="дверь" lang="ru"/>дверь, <index level1="порог" lang="ru"/>порог</def>
     </trans>
   </sense>
   <note type="source"><bibl>Ety/381, LotR/V:IV, WR/341, RC/550, PE/17:45,98,181</bibl></note>
@@ -20992,6 +21163,9 @@
     <trans lang="en">
       <def><index level1="doorway" lang="en"/>doorway, <index level1="gateway" lang="en"/>gateway</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="дверной_проём" lang="ru"/>дверной проём, <index level1="ворота" lang="ru"/>ворота</def>
+    </trans>
   </sense>
   <note type="source"><bibl>LotR/II:IV, RS/463, RGEO/75, PE/17:45</bibl></note>
 </entry>
@@ -21023,6 +21197,9 @@
     <trans lang="en">
       <def><bibl>Ety/352, Ety/381</bibl> <index level1="beech" lang="en"/>beech-<index level1="tree" lang="en"/>tree</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/352, Ety/381</bibl> <index level1="бук" lang="ru"/>бук</def>
+    </trans>
   </sense>
 </entry>
 
@@ -21043,6 +21220,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/387</bibl> <index level1="hunter" lang="en"/>hunter</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/387</bibl> <index level1="охотник" lang="ru"/>охотник</def>
     </trans>
   </sense>
   <etym>farad+dîr</etym>
@@ -21074,6 +21254,9 @@
     <trans lang="en">
       <def><bibl>PE/17:181</bibl> soon done</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>PE/17:181</bibl> почти готовый, вот-вот(скоро) готовый</def>
+    </trans>
   </sense>
 </entry>
 
@@ -21095,6 +21278,9 @@
     <trans lang="en">
       <def><bibl>PE/17:181</bibl> quick to see or perceive, sharp-sighted (or witted)</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>PE/17:181</bibl> быстро замечающий или воспринимающий, проницательный (или сообразительный)</def>
+    </trans>
   </sense>
 </entry>
 
@@ -21115,6 +21301,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>PE/17:181</bibl> to make ready (promptly)</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>PE/17:181</bibl> <index level1="готовиться" lang="ru"/>готовиться (быстро)</def>
     </trans>
   </sense>
 </entry>
@@ -21147,6 +21336,9 @@
     <trans lang="en">
       <def><bibl>Ety/381</bibl> <index level1="dead" lang="en"/>dead</def> <usg type="hint">of mortals</usg>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> <index level1="мёртвый" lang="ru"/>мёртвый</def> <usg type="hint">о смертных существах</usg>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -21157,6 +21349,9 @@
     </trans>
     <trans lang="en">
       <def>dead person</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="мертвец" lang="ru"/>мертвец, умерший носитель разума</def>
     </trans>
   </sense>
 </entry>
@@ -21178,6 +21373,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>PE/17:181</bibl> ready to hand, (quickly) available</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>PE/17:181</bibl> под рукой, (быстро) доступный</def>
     </trans>
   </sense>
 </entry>
@@ -21208,6 +21406,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/381</bibl> small <index level1="bird" lang="en"/>bird</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> маленькая <index level1="птица" lang="ru"/>птица</def>
     </trans>
   </sense>
   <etym>Singular formed by analogy</etym>
@@ -21241,6 +21442,9 @@
     <trans lang="en">
       <def><bibl>Ety/381</bibl> small <index level1="bird" lang="en"/>bird</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> маленькая <index level1="птица" lang="ru"/>птица</def>
+    </trans>
   </sense>
 </entry>
 
@@ -21260,6 +21464,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="slim" lang="en"/>slim, <index level1="slender" lang="en"/>slender</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="стройный" lang="ru"/>стройный, <index level1="тонкий" lang="ru"/>тонкий</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>Fimbrethil</mentioned> <bibl>LotR/Index</bibl></note>
@@ -21291,6 +21498,9 @@
     <trans lang="en">
       <def><bibl>PM/361-362</bibl> a <index level1="tress" lang="en"/>tress</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>PM/361-362</bibl> <index level1="коса" lang="ru"/>коса, прядь</def>
+    </trans>
   </sense>
 </entry>
 
@@ -21310,6 +21520,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="lock" lang="en"/>lock of <index level1="hair" lang="en"/>hair</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="локон" lang="ru"/>локон, прядь <index level1="волосы" lang="ru"/>волос</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>Finglas</mentioned> <gloss>“Leaflock”</gloss> <bibl>RC/386</bibl></note>
@@ -21332,6 +21545,9 @@
     </trans>
     <trans lang="en">
       <def>(?) hair of head</def>
+    </trans>
+    <trans lang="ru">
+      <def>(?) волос на голове</def>
     </trans>
   </sense>
 </entry>
@@ -21358,6 +21574,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/387</bibl> (braided) <index level1="hair" lang="en"/>hair</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/387</bibl> <index level1="волосы" lang="ru"/>волосы (заплетённые)</def>
     </trans>
   </sense>
 </entry>
@@ -21388,6 +21607,9 @@
     <trans lang="en">
       <def><bibl>WJ/387</bibl> <index level1="mortal" lang="en"/>mortal</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>WJ/387</bibl> <index level1="смертный" lang="ru"/>смертный</def>
+    </trans>
   </sense>
   <etym>fair+-eb</etym>
 </entry>
@@ -21410,6 +21632,9 @@
     <trans lang="en">
       <def><bibl>Ety/381</bibl> <index level1="human" lang="en"/>human</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> <index level1="человеческий" lang="ru"/>человеческий</def>
+    </trans>
   </sense>
   <etym>fair+-en (PHIR)</etym>
 </entry>
@@ -21431,6 +21656,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="mortal" lang="en"/>mortals, human beings</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="смертный" lang="ru"/>смертные, все люди (человеческий род)</def>
     </trans>
   </sense>
   <note type="source"><bibl>WJ/219, WJ/387</bibl></note>
@@ -21456,6 +21684,9 @@
     <trans lang="en">
       <def><index level1="mortal" lang="en"/>mortal maid</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="смертный" lang="ru"/>смертная дева</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/382, PM/195, PM/232</bibl></note>
 </entry>
@@ -21477,6 +21708,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>WJ/387</bibl> <index level1="mortal" lang="en"/>mortal woman</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>WJ/387</bibl> <index level1="смертный" lang="ru"/>смертная женщина</def>
     </trans>
   </sense>
   <etym>fair+-eth (PHIR)</etym>
@@ -21500,6 +21734,9 @@
     <trans lang="en">
       <def><bibl>WJ/387</bibl> <index level1="mortal" lang="en"/>mortal man</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>WJ/387</bibl> <index level1="смертный" lang="ru"/>смертный мужчина</def>
+    </trans>
   </sense>
 </entry>
 
@@ -21522,6 +21759,9 @@
     <trans lang="en">
       <def><bibl>LotR/D</bibl> <index level1="season" lang="en"/>season of fading</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>LotR/D</bibl> <index level1="сезон" lang="ru"/>сезон увядания</def>
+    </trans>
   </sense>
 </entry>
 
@@ -21542,6 +21782,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="skin" lang="en"/>skin</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="кожа" lang="ru"/>кожа</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>Fladrif</mentioned> <bibl>LotR/E, TC/169, TC/173</bibl></note>
@@ -21570,6 +21813,11 @@
            small <index level1="bird" lang="en"/>bird,
            <bibl>PE/21:71-72,81</bibl> <index level1="finch" lang="en"/>finch</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>PE/21:56</bibl> <index level1="воробей" lang="ru"/>воробей,
+           маленькая <index level1="птица" lang="ru"/>птица,
+           <bibl>PE/21:71-72,81</bibl> <index level1="зяблик" lang="ru"/>зяблик</def>
+    </trans>
   </sense>
 </entry>
 
@@ -21590,6 +21838,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/382</bibl> <index level1="right" lang="en"/>right-<index level1="handed" lang="en"/>handed</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/382</bibl> <index level1="правша" lang="ru"/>праворукий, правша</def>
     </trans>
   </sense>
   <etym>fôr+cam</etym>
@@ -21612,6 +21863,9 @@
     <trans lang="en">
       <def><index level1="right" lang="en"/>right, <index level1="north" lang="en"/>north</def>
     </trans>
+    <trans lang="ru">
+      <def><index level1="право" lang="ru"/>право, <index level1="север" lang="ru"/>север</def>
+    </trans>
   </sense>
   <note type="source"><bibl>Ety/382, UT/426, S/431</bibl></note>
 </entry>
@@ -21632,6 +21886,9 @@
     </trans>
     <trans lang="en">
       <def><index level1="north" lang="en"/>north</def>
+    </trans>
+    <trans lang="ru">
+      <def><index level1="север" lang="ru"/>север</def>
     </trans>
   </sense>
   <note type="source"><bibl>Ety/382, S/431, LotR/E</bibl></note>
@@ -21671,6 +21928,9 @@
     <trans lang="en">
       <def><bibl>Ety/382</bibl> <index level1="northern" lang="en"/>northern</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/382</bibl> <index level1="северный" lang="ru"/>северный</def>
+    </trans>
   </sense>
   <etym>forod+-ren (PHOR)</etym>
 </entry>
@@ -21694,6 +21954,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/392</bibl> <index level1="man" lang="en"/>Northmen</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/392</bibl> <index level1="северянин" lang="ru"/>северяне</def>
     </trans>
   </sense>
   <etym>forod+rim</etym>
@@ -21723,6 +21986,9 @@
     <trans lang="en">
       <def><bibl>Ety/382, Ety/398</bibl> <index level1="man" lang="en"/>Northmen</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/382, Ety/398</bibl> <index level1="северянин" lang="ru"/>северяне</def>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -21734,6 +22000,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/382</bibl> the lands of the North</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/382</bibl> северные земли</def>
     </trans>
   </sense>
   <etym>forod+gwaith</etym>
@@ -21756,6 +22025,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>Ety/382</bibl> <index level1="north" lang="en"/>north</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/382</bibl> <index level1="север" lang="ru"/>север</def>
     </trans>
   </sense>
   <etym>fôr+mên</etym>
@@ -21780,6 +22052,9 @@
     <trans lang="en">
       <def><bibl>VT/47:6</bibl> <index level1="right" lang="en"/>right <index level1="hand" lang="en"/>hand</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>VT/47:6</bibl> <index level1="правая_рука" lang="ru"/>правая рука</def>
+    </trans>
   </sense>
   <sense>
     <gramGrp>
@@ -21791,6 +22066,9 @@
     </trans>
     <trans lang="en">
       <def><bibl>VT/47:6</bibl> right <index level1="side" lang="en"/>side</def>
+    </trans>
+    <trans lang="ru">
+      <def><bibl>VT/47:6</bibl> <index level1="правая_сторона" lang="ru"/>правая сторона</def>
     </trans>
   </sense>
   <etym>for-vaw, fôr+maw</etym>
@@ -21813,6 +22091,9 @@
     </trans>
     <trans lang="en">
       <def>(unknown meaning)</def>
+    </trans>
+    <trans lang="ru">
+      <def>(значение неизвестно)</def>
     </trans>
   </sense>
   <note type="source,deduced"><mentioned>[Raith &gt;] Fui ’Ngorthrim</mentioned> <bibl>RC/526</bibl></note>
@@ -21845,6 +22126,10 @@
       <def><bibl>Ety/381</bibl> to feel <index level1="disgust" lang="en"/>disgust at,
            <index level1="abhor" lang="en"/>abhor</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/381</bibl> <index level1="испытывать_отвращение" lang="ru"/>испытывать отвращение к,
+           <index level1="гнушаться" lang="ru"/>гнушаться, <index level1="питать_омерзение" lang="ru"/>питать омерзение</def>
+    </trans>
   </sense>
 </entry>
 
@@ -21873,6 +22158,12 @@
            <bibl>S/431</bibl> gloom, darkness,
            <bibl>NM/283</bibl> night, between the twilights but including the darker part of these</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>Ety/354, Ety/382, RC/727, VT/41:8, NM/279</bibl> <index level1="ночь" lang="ru"/>ночь,
+           <bibl>Ety/354</bibl> глухая ночь,
+           <bibl>S/431</bibl> <index level1="мрак" lang="ru"/>мрак, <index level1="тьма" lang="ru"/>тьма,
+           <bibl>NM/283</bibl> ночь, промежуток между сумерками, включая их наиболее тёмную часть</def>
+    </trans>
   </sense>
 </entry>
 
@@ -21894,8 +22185,11 @@
     <trans lang="en">
       <def><bibl>VT/42:20, NM/392</bibl> <index level1="north" lang="en"/>north</def>
     </trans>
+    <trans lang="ru">
+      <def><bibl>VT/42:20, NM/392</bibl> <index level1="северный" lang="ru"/>северный</def>
+    </trans>
   </sense>
-  <note type="source,deduced"><mentioned>Eryn Fuir</mentioned> North Wood” <bibl>VT/42:20, NM/392</bibl></note>
+  <note type="source,deduced"><mentioned>Eryn Fuir</mentioned> <gloss>“North Wood”</gloss> <bibl>VT/42:20, NM/392</bibl></note>
   <xr type="analogy"><ptr target="feir"/></xr>
 </entry>
 
